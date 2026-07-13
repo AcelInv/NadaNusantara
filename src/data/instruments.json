@@ -17,8 +17,15 @@
     "materials": "Perunggu, kuningan, besi, kayu jati, dan kulit binatang untuk kendang.",
     "audioUrl": "",
     "videoUrl": "https://www.youtube.com/embed/UEWCCSuHsuQ",
-    "mapCoords": { "lat": -7.1501, "lng": 110.1403 },
-    "facts": ["Gamelan telah diakui UNESCO sebagai Warisan Budaya Tak Benda", "Terdapat lebih dari 30 jenis gamelan di Nusantara", "Nada gamelan tidak mengikuti standar Barat"],
+    "mapCoords": {
+      "lat": -7.1501,
+      "lng": 110.1403
+    },
+    "facts": [
+      "Gamelan telah diakui UNESCO sebagai Warisan Budaya Tak Benda",
+      "Terdapat lebih dari 30 jenis gamelan di Nusantara",
+      "Nada gamelan tidak mengikuti standar Barat"
+    ],
     "featured": true
   },
   {
@@ -28,7 +35,9 @@
     "region": "Jawa Barat",
     "type": "Guncang",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Angklung_choir.jpg/1280px-Angklung_choir.jpg",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Angklung_choir.jpg/1280px-Angklung_choir.jpg"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Angklung_choir.jpg/1280px-Angklung_choir.jpg"
+    ],
     "description": "Angklung adalah alat musik multitonal dari bambu khas Sunda, Jawa Barat, yang menghasilkan suara saat digoyangkan.",
     "history": "Angklung telah digunakan oleh suku Sunda sejak abad ke-7 dalam upacara pemujaan Dewi Sri. UNESCO mengakuinya sebagai Warisan Budaya Tak Benda pada 2010.",
     "function": "Dimainkan dalam upacara adat, pertunjukan seni, dan pendidikan musik di seluruh dunia.",
@@ -36,8 +45,15 @@
     "materials": "Bambu hitam (awi wulung) dan bambu putih (awi temen).",
     "audioUrl": "",
     "videoUrl": "https://www.youtube.com/embed/UbqA-uqQfFg",
-    "mapCoords": { "lat": -6.9147, "lng": 107.6098 },
-    "facts": ["Angklung diakui UNESCO tahun 2010", "Saung Angklung Udjo adalah pusat angklung terkenal di Bandung", "Pernah dimainkan oleh 5.000 orang sekaligus"],
+    "mapCoords": {
+      "lat": -6.9147,
+      "lng": 107.6098
+    },
+    "facts": [
+      "Angklung diakui UNESCO tahun 2010",
+      "Saung Angklung Udjo adalah pusat angklung terkenal di Bandung",
+      "Pernah dimainkan oleh 5.000 orang sekaligus"
+    ],
     "featured": true
   },
   {
@@ -47,7 +63,9 @@
     "region": "Nusa Tenggara Timur",
     "type": "Petik",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sasando_instrument.jpg/800px-Sasando_instrument.jpg",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sasando_instrument.jpg/800px-Sasando_instrument.jpg"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sasando_instrument.jpg/800px-Sasando_instrument.jpg"
+    ],
     "description": "Sasando adalah alat musik petik khas Pulau Rote, NTT, berbentuk tabung dari daun lontar dengan senar yang dipetik.",
     "history": "Berasal dari Pulau Rote sejak abad ke-7. Legenda menyebut instrumen ini diciptakan oleh seorang pemuda bernama Sangguana.",
     "function": "Pengiring nyanyian, upacara adat, dan hiburan masyarakat Rote.",
@@ -55,8 +73,15 @@
     "materials": "Daun lontar, bambu, dan kawat baja.",
     "audioUrl": "",
     "videoUrl": "https://www.youtube.com/embed/YcNpThwWNpE",
-    "mapCoords": { "lat": -10.7460, "lng": 123.0070 },
-    "facts": ["Sasando memiliki 28 hingga 58 senar", "Suaranya mirip harpa Barat", "Gambar sasando ada di uang Rp5000"],
+    "mapCoords": {
+      "lat": -10.746,
+      "lng": 123.007
+    },
+    "facts": [
+      "Sasando memiliki 28 hingga 58 senar",
+      "Suaranya mirip harpa Barat",
+      "Gambar sasando ada di uang Rp5000"
+    ],
     "featured": true
   },
   {
@@ -66,7 +91,9 @@
     "region": "Kalimantan Timur",
     "type": "Petik",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sape_Dayak_Kenyah.jpg/800px-Sape_Dayak_Kenyah.jpg",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sape_Dayak_Kenyah.jpg/800px-Sape_Dayak_Kenyah.jpg"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sape_Dayak_Kenyah.jpg/800px-Sape_Dayak_Kenyah.jpg"
+    ],
     "description": "Sape adalah alat musik petik tradisional suku Dayak Kenyah dari Kalimantan, terbuat dari kayu ukiran.",
     "history": "Sape digunakan suku Dayak sejak berabad-abad lalu, awalnya untuk ritual pengobatan dan komunikasi dengan roh leluhur.",
     "function": "Pengiring tari Dayak, ritual adat, dan hiburan.",
@@ -74,8 +101,15 @@
     "materials": "Kayu belian (ulin) atau kayu adau.",
     "audioUrl": "",
     "videoUrl": "https://www.youtube.com/embed/dN7IJVDYNLQ",
-    "mapCoords": { "lat": 0.5387, "lng": 116.4194 },
-    "facts": ["Ukiran sape memiliki motif khas Dayak", "Sape modern kadang memiliki 4-6 senar", "Diakui sebagai identitas musik Kalimantan"],
+    "mapCoords": {
+      "lat": 0.5387,
+      "lng": 116.4194
+    },
+    "facts": [
+      "Ukiran sape memiliki motif khas Dayak",
+      "Sape modern kadang memiliki 4-6 senar",
+      "Diakui sebagai identitas musik Kalimantan"
+    ],
     "featured": true
   },
   {
@@ -85,7 +119,9 @@
     "region": "Sulawesi Utara",
     "type": "Pukul",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kolintang.jpg/1280px-Kolintang.jpg",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kolintang.jpg/1280px-Kolintang.jpg"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kolintang.jpg/1280px-Kolintang.jpg"
+    ],
     "description": "Kolintang adalah alat musik idiofon dari Minahasa, Sulawesi Utara, terbuat dari bilah kayu yang disusun horizontal.",
     "history": "Berasal dari suku Minahasa. Nama 'kolintang' dari ungkapan 'tong ting tang' bunyi alat musiknya.",
     "function": "Pengiring upacara adat, hiburan rakyat, dan orkestra kolintang modern.",
@@ -93,8 +129,15 @@
     "materials": "Kayu telur, kayu cempaka, atau kayu waru.",
     "audioUrl": "",
     "videoUrl": "https://www.youtube.com/embed/oJH3YVZN3-E",
-    "mapCoords": { "lat": 1.4748, "lng": 124.8421 },
-    "facts": ["Kolintang memiliki lebih dari 21 bilah nada", "Orkes kolintang bisa terdiri dari 7 pemain", "Dimainkan dalam misa gereja Minahasa"],
+    "mapCoords": {
+      "lat": 1.4748,
+      "lng": 124.8421
+    },
+    "facts": [
+      "Kolintang memiliki lebih dari 21 bilah nada",
+      "Orkes kolintang bisa terdiri dari 7 pemain",
+      "Dimainkan dalam misa gereja Minahasa"
+    ],
     "featured": false
   },
   {
@@ -104,7 +147,9 @@
     "region": "Papua",
     "type": "Pukul",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tifa_Papua.jpg/800px-Tifa_Papua.jpg",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tifa_Papua.jpg/800px-Tifa_Papua.jpg"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tifa_Papua.jpg/800px-Tifa_Papua.jpg"
+    ],
     "description": "Tifa adalah alat musik perkusi khas Papua dan Maluku, berupa gendang silindris yang dipukul dengan tangan.",
     "history": "Tifa digunakan suku-suku asli Papua dan Maluku dalam upacara perang, perdamaian, dan ritual adat.",
     "function": "Mengiringi tarian perang, ritual adat, dan penyambutan tamu.",
@@ -112,8 +157,15 @@
     "materials": "Kayu lenggua, kulit rusa, atau kulit biawak.",
     "audioUrl": "",
     "videoUrl": "https://www.youtube.com/embed/l7OMzAFgRGU",
-    "mapCoords": { "lat": -4.2699, "lng": 138.0804 },
-    "facts": ["Tifa sering dihiasi ukiran motif suku setempat", "Tifa termasuk kategori membranofon", "Bunyi tifa dapat terdengar dari jarak jauh"],
+    "mapCoords": {
+      "lat": -4.2699,
+      "lng": 138.0804
+    },
+    "facts": [
+      "Tifa sering dihiasi ukiran motif suku setempat",
+      "Tifa termasuk kategori membranofon",
+      "Bunyi tifa dapat terdengar dari jarak jauh"
+    ],
     "featured": false
   },
   {
@@ -123,7 +175,9 @@
     "region": "Jawa & Sunda",
     "type": "Gesek",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rebab_Java.jpg/800px-Rebab_Java.jpg",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rebab_Java.jpg/800px-Rebab_Java.jpg"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rebab_Java.jpg/800px-Rebab_Java.jpg"
+    ],
     "description": "Rebab adalah alat musik gesek bersenar dua yang masuk ke Indonesia melalui jalur perdagangan Arab.",
     "history": "Rebab masuk ke Nusantara sejak abad ke-9 melalui pedagang Arab dan Persia, kemudian diserap ke dalam budaya Jawa dan Sunda.",
     "function": "Instrumen melodi utama dalam gamelan Jawa dan Sunda, pengiring wayang.",
@@ -131,8 +185,15 @@
     "materials": "Kayu, kulit binatang untuk resonator, ekor kuda untuk senar busur.",
     "audioUrl": "",
     "videoUrl": "https://www.youtube.com/embed/3q7K-VUJZM8",
-    "mapCoords": { "lat": -7.7956, "lng": 110.3695 },
-    "facts": ["Rebab adalah instrumen melodi tertua dalam gamelan", "Busur rebab tidak menggunakan rosin seperti biola Barat", "Suara rebab dianggap sakral dalam pertunjukan wayang"],
+    "mapCoords": {
+      "lat": -7.7956,
+      "lng": 110.3695
+    },
+    "facts": [
+      "Rebab adalah instrumen melodi tertua dalam gamelan",
+      "Busur rebab tidak menggunakan rosin seperti biola Barat",
+      "Suara rebab dianggap sakral dalam pertunjukan wayang"
+    ],
     "featured": false
   },
   {
@@ -142,7 +203,9 @@
     "region": "Jawa Barat",
     "type": "Petik",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kecapi_suling.jpg/1280px-Kecapi_suling.jpg",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kecapi_suling.jpg/1280px-Kecapi_suling.jpg"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kecapi_suling.jpg/1280px-Kecapi_suling.jpg"
+    ],
     "description": "Kecapi adalah alat musik petik khas Sunda berbentuk perahu dengan 15-20 senar.",
     "history": "Kecapi berasal dari suku Sunda dan sudah ada sejak masa Kerajaan Sunda. Bentuknya menyerupai perahu yang melambangkan perjalanan hidup.",
     "function": "Instrumen utama dalam kecapi suling, tembang Sunda, dan pantun Sunda.",
@@ -150,8 +213,15 @@
     "materials": "Kayu nangka atau kenanga, kawat baja untuk senar.",
     "audioUrl": "",
     "videoUrl": "https://www.youtube.com/embed/5BFhFUGOYbM",
-    "mapCoords": { "lat": -6.9147, "lng": 107.6098 },
-    "facts": ["Kecapi indung (besar) dan kecapi rincik (kecil) sering dimainkan bersama", "Senar kecapi dahulu terbuat dari usus ikan", "Kecapi digunakan dalam ritual Hajat Lembur"],
+    "mapCoords": {
+      "lat": -6.9147,
+      "lng": 107.6098
+    },
+    "facts": [
+      "Kecapi indung (besar) dan kecapi rincik (kecil) sering dimainkan bersama",
+      "Senar kecapi dahulu terbuat dari usus ikan",
+      "Kecapi digunakan dalam ritual Hajat Lembur"
+    ],
     "featured": false
   },
   {
@@ -161,7 +231,9 @@
     "region": "Seluruh Indonesia",
     "type": "Tiup",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Suling.jpg/800px-Suling.jpg",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Suling.jpg/800px-Suling.jpg"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Suling.jpg/800px-Suling.jpg"
+    ],
     "description": "Suling adalah alat musik tiup dari bambu yang tersebar di seluruh kepulauan Indonesia dengan berbagai variasi.",
     "history": "Suling telah ada sejak ribuan tahun lalu dan ditemukan di berbagai kebudayaan Nusantara. Suling Sunda berbeda dari suling Bali dan Jawa.",
     "function": "Melodi dalam ansambel gamelan, musik solo, dan pengiring tari.",
@@ -169,8 +241,15 @@
     "materials": "Bambu tamiang atau bambu wulung.",
     "audioUrl": "",
     "videoUrl": "https://www.youtube.com/embed/aMzN7kDLNqI",
-    "mapCoords": { "lat": -2.5489, "lng": 118.0149 },
-    "facts": ["Suling Sunda memiliki 4 lubang nada, suling Jawa 6 lubang", "Nada suling tergantung panjang bambu", "Suling digunakan dalam musik Bali untuk upacara kremasi"],
+    "mapCoords": {
+      "lat": -2.5489,
+      "lng": 118.0149
+    },
+    "facts": [
+      "Suling Sunda memiliki 4 lubang nada, suling Jawa 6 lubang",
+      "Nada suling tergantung panjang bambu",
+      "Suling digunakan dalam musik Bali untuk upacara kremasi"
+    ],
     "featured": false
   },
   {
@@ -180,7 +259,9 @@
     "region": "Jawa & Bali",
     "type": "Pukul",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kendang_Sunda.jpg/800px-Kendang_Sunda.jpg",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kendang_Sunda.jpg/800px-Kendang_Sunda.jpg"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kendang_Sunda.jpg/800px-Kendang_Sunda.jpg"
+    ],
     "description": "Kendang adalah gendang dua sisi yang menjadi pemimpin irama dalam ansambel gamelan Jawa dan Bali.",
     "history": "Kendang telah disebutkan dalam prasasti dan relief candi Hindu-Buddha di Jawa sejak abad ke-9.",
     "function": "Pengatur tempo dan dinamika dalam gamelan, pengiring tari, dan upacara.",
@@ -188,8 +269,15 @@
     "materials": "Kayu nangka, kulit sapi atau kambing untuk membran.",
     "audioUrl": "",
     "videoUrl": "https://www.youtube.com/embed/5FN9KGf5VHc",
-    "mapCoords": { "lat": -7.7956, "lng": 110.3695 },
-    "facts": ["Pemain kendang disebut penggender atau pengendang", "Kendang Bali berbeda ritme dengan kendang Jawa", "Kendang memiliki peran seperti konduktor orkestra"],
+    "mapCoords": {
+      "lat": -7.7956,
+      "lng": 110.3695
+    },
+    "facts": [
+      "Pemain kendang disebut penggender atau pengendang",
+      "Kendang Bali berbeda ritme dengan kendang Jawa",
+      "Kendang memiliki peran seperti konduktor orkestra"
+    ],
     "featured": false
   },
   {
@@ -199,7 +287,9 @@
     "region": "Jawa & Bali",
     "type": "Pukul",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Large_Javanese_Gong.jpg/800px-Large_Javanese_Gong.jpg",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Large_Javanese_Gong.jpg/800px-Large_Javanese_Gong.jpg"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Large_Javanese_Gong.jpg/800px-Large_Javanese_Gong.jpg"
+    ],
     "description": "Gong adalah instrumen utama gamelan berbentuk lingkaran besar dari perunggu yang menghasilkan suara resonansi dalam.",
     "history": "Gong dikenal di Asia Tenggara sejak 2000-3000 tahun lalu. Di Jawa, gong sakral disebut 'Kanjeng Kyai' dan dianggap memiliki kekuatan spiritual.",
     "function": "Penanda akhir frase melodi (gongan) dalam gamelan dan upacara kerajaan.",
@@ -207,8 +297,15 @@
     "materials": "Perunggu campuran tembaga dan timah.",
     "audioUrl": "",
     "videoUrl": "https://www.youtube.com/embed/YaNCyMNrIe8",
-    "mapCoords": { "lat": -7.7956, "lng": 110.3695 },
-    "facts": ["Gong ageng adalah gong terbesar dalam gamelan", "Pembuatan gong memerlukan keahlian khusus dan ritual", "Beberapa gong berusia ratusan tahun dan dianggap pusaka"],
+    "mapCoords": {
+      "lat": -7.7956,
+      "lng": 110.3695
+    },
+    "facts": [
+      "Gong ageng adalah gong terbesar dalam gamelan",
+      "Pembuatan gong memerlukan keahlian khusus dan ritual",
+      "Beberapa gong berusia ratusan tahun dan dianggap pusaka"
+    ],
     "featured": false
   },
   {
@@ -218,7 +315,9 @@
     "region": "Jawa Barat",
     "type": "Tiup",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Karinding.jpg/800px-Karinding.jpg",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Karinding.jpg/800px-Karinding.jpg"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Karinding.jpg/800px-Karinding.jpg"
+    ],
     "description": "Karinding adalah alat musik tiup bibir kecil dari bambu atau pelepah aren khas Sunda.",
     "history": "Karinding awalnya digunakan para petani Sunda untuk mengusir hama dengan frekuensi suaranya sebelum berkembang menjadi alat musik.",
     "function": "Hiburan pribadi, ritual, dan kini musik kontemporer Sunda.",
@@ -226,8 +325,15 @@
     "materials": "Bambu tali atau pelepah aren.",
     "audioUrl": "",
     "videoUrl": "https://www.youtube.com/embed/ZjbGAQvzPJ0",
-    "mapCoords": { "lat": -6.9147, "lng": 107.6098 },
-    "facts": ["Karinding adalah jew's harp versi Sunda", "Frekuensi suaranya bisa mengusir serangga", "Komunitas karinding aktif di Bandung"],
+    "mapCoords": {
+      "lat": -6.9147,
+      "lng": 107.6098
+    },
+    "facts": [
+      "Karinding adalah jew's harp versi Sunda",
+      "Frekuensi suaranya bisa mengusir serangga",
+      "Komunitas karinding aktif di Bandung"
+    ],
     "featured": false
   },
   {
@@ -237,7 +343,9 @@
     "region": "Aceh",
     "type": "Tiup",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Serunai.jpg/800px-Serunai.jpg",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Serunai.jpg/800px-Serunai.jpg"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Serunai.jpg/800px-Serunai.jpg"
+    ],
     "description": "Serune Kalee adalah alat musik tiup tradisional Aceh mirip clarinet, terbuat dari kayu dengan corong dari tanduk.",
     "history": "Serune Kalee digunakan sejak masa Kesultanan Aceh sebagai alat pemanggil prajurit dan pengiring upacara.",
     "function": "Pengiring tari Saman, peusijuek, dan upacara adat Aceh.",
@@ -245,8 +353,15 @@
     "materials": "Kayu, tanduk kerbau, dan daun lontar.",
     "audioUrl": "",
     "videoUrl": "",
-    "mapCoords": { "lat": 4.6951, "lng": 96.7494 },
-    "facts": ["Serune Kalee sering dimainkan bersama rapai (gendang Aceh)", "Tonalitasnya mirip oboe Barat", "Warna merahnya dari pewarna alami"],
+    "mapCoords": {
+      "lat": 4.6951,
+      "lng": 96.7494
+    },
+    "facts": [
+      "Serune Kalee sering dimainkan bersama rapai (gendang Aceh)",
+      "Tonalitasnya mirip oboe Barat",
+      "Warna merahnya dari pewarna alami"
+    ],
     "featured": false
   },
   {
@@ -256,7 +371,9 @@
     "region": "Sumatera Utara",
     "type": "Pukul",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gondang_sabangunan.jpg/800px-Gondang_sabangunan.jpg",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gondang_sabangunan.jpg/800px-Gondang_sabangunan.jpg"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gondang_sabangunan.jpg/800px-Gondang_sabangunan.jpg"
+    ],
     "description": "Aramba adalah alat musik pukul khas suku Nias berbentuk gong kecil dari perunggu.",
     "history": "Aramba digunakan dalam perang dan upacara adat suku Nias sejak ratusan tahun lalu.",
     "function": "Pengiring tari perang (Fahombo), upacara adat, dan ritual suku Nias.",
@@ -264,8 +381,15 @@
     "materials": "Perunggu campuran tembaga dan timah.",
     "audioUrl": "",
     "videoUrl": "",
-    "mapCoords": { "lat": 1.1570, "lng": 97.5910 },
-    "facts": ["Aramba digunakan dalam lompat batu Nias", "Ukurannya bervariasi dari kecil hingga besar", "Setiap ukuran menghasilkan nada berbeda"],
+    "mapCoords": {
+      "lat": 1.157,
+      "lng": 97.591
+    },
+    "facts": [
+      "Aramba digunakan dalam lompat batu Nias",
+      "Ukurannya bervariasi dari kecil hingga besar",
+      "Setiap ukuran menghasilkan nada berbeda"
+    ],
     "featured": false
   },
   {
@@ -275,7 +399,9 @@
     "region": "Sumatera Barat",
     "type": "Pukul",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Talempong.jpg/800px-Talempong.jpg",
-    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Talempong.jpg/800px-Talempong.jpg"],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Talempong.jpg/800px-Talempong.jpg"
+    ],
     "description": "Talempong adalah instrumen perkusi Minangkabau berupa gong-gong kecil dari kuningan yang dimainkan secara ansambel.",
     "history": "Talempong telah ada sejak masa Kerajaan Pagaruyung di Sumatera Barat dan menjadi identitas musik Minangkabau.",
     "function": "Pengiring tari Piring, upacara adat pernikahan, dan arak-arakan.",
@@ -283,8 +409,827 @@
     "materials": "Kuningan atau perunggu.",
     "audioUrl": "",
     "videoUrl": "https://www.youtube.com/embed/FX7ySA37eeE",
-    "mapCoords": { "lat": -0.9492, "lng": 100.4172 },
-    "facts": ["Teknik memainkannya disebut interlocking (saling mengisi)", "Talempong digunakan dalam prosesi adat Minangkabau", "Ada talempong pacik (digenggam) dan talempong duduak (diletakkan)"],
+    "mapCoords": {
+      "lat": -0.9492,
+      "lng": 100.4172
+    },
+    "facts": [
+      "Teknik memainkannya disebut interlocking (saling mengisi)",
+      "Talempong digunakan dalam prosesi adat Minangkabau",
+      "Ada talempong pacik (digenggam) dan talempong duduak (diletakkan)"
+    ],
+    "featured": false
+  },
+  {
+    "id": 16,
+    "slug": "bonang",
+    "name": "Bonang",
+    "region": "Jawa Timur",
+    "type": "Pukul",
+    "image": "/images/instruments/bonang-main.jpg",
+    "images": [
+      "/images/instruments/bonang-1.jpg",
+      "/images/instruments/bonang-2.jpg"
+    ],
+    "description": "Bonang merupakan alat musik pukul yang terbuat dari kuningan. Bonang termasuk bagian dari peralatan gamelan dan biasanya digunakan secara bersamaan dengan saron dan gong untuk memainkan suatu tembang.",
+    "history": "Bonang merupakan bagian integral dari perangkat gamelan Jawa yang diperkirakan telah berkembang sejak era Kerajaan Majapahit.",
+    "function": "Pembawa melodi perantara dan penuntun tempo dalam ansambel musik gamelan Jawa.",
+    "howToPlay": "Pukul bagian pencon (tonjolan) bonang menggunakan sepasang tabuh (pemukul kayu berbalut benang/kain).",
+    "materials": "Logam perunggu, kuningan, atau besi",
+    "audioUrl": "/audio/bonang.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -7.536,
+      "lng": 112.2384
+    },
+    "facts": [
+      "Memiliki tonjolan pencon di bagian tengah bilahnya",
+      "Terdiri atas bonang barung dan bonang panerus",
+      "Bagian krusial yang menuntun jalannya komposisi gamelan"
+    ],
+    "featured": true
+  },
+  {
+    "id": 17,
+    "slug": "doli-doli",
+    "name": "Doli-doli",
+    "region": "Sumatra Utara",
+    "type": "Pukul",
+    "image": "/images/instruments/doli-doli-main.jpg",
+    "images": [
+      "/images/instruments/doli-doli-1.jpg",
+      "/images/instruments/doli-doli-2.jpg"
+    ],
+    "description": "Doli-doli adalah alat musik tradisional dari daerah Nias, Sumatra Utara yang terbuat dari kayu dan disusun sejajar. Doli-doli dimainkan dengan cara dipukul memakai alat pukul kayu.",
+    "history": "Alat musik khas masyarakat Nias, Sumatera Utara yang lahir dari tradisi agraris kuno untuk menemani waktu menunggu padi.",
+    "function": "Dimainkan di ladang untuk menghibur diri serta bagian dari upacara adat ritual pertanian.",
+    "howToPlay": "Pukul bilah-bilah kayu menggunakan dua stik pemukul kayu kecil untuk menghasilkan susunan nada.",
+    "materials": "Kayu lokal Nias dan bambu",
+    "audioUrl": "/audio/doli-doli.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": 2.1154,
+      "lng": 99.0765
+    },
+    "facts": [
+      "Terbuat dari beberapa bilah kayu yang disusun sejajar",
+      "Dimainkan di atas pangkuan paha pemainnya",
+      "Alat musik yang sangat erat dengan ritual ladang pertanian"
+    ],
+    "featured": false
+  },
+  {
+    "id": 18,
+    "slug": "demung",
+    "name": "Demung",
+    "region": "Jawa Tengah",
+    "type": "Pukul",
+    "image": "/images/instruments/demung-main.jpg",
+    "images": [
+      "/images/instruments/demung-1.jpg",
+      "/images/instruments/demung-2.jpg"
+    ],
+    "description": "Demung adalah alat musik pukul tradisional yang termasuk dari bagian gamelan. Fungsi demung yaitu sebagai penghias lagu. Demung terdiri atas dua jenis yaitu demung nada pelog dan demung slendro.",
+    "history": "Merupakan instrumen purba gamelan Jawa yang jejaknya tergambar pada relief Candi Borobudur abad ke-9 Masehi.",
+    "function": "Membawa nada-nada melodi utama (balungan) dalam pertunjukan gamelan Jawa Tengah.",
+    "howToPlay": "Pukul bilah logam menggunakan palu pemukul kayu khusus dengan tangan kanan, lalu gunakan jari tangan kiri untuk memegang/meredam bunyi bilah.",
+    "materials": "Bilah logam perunggu atau kuningan, dan dudukan kayu jati",
+    "audioUrl": "/audio/demung.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -7.1501,
+      "lng": 110.1403
+    },
+    "facts": [
+      "Bagian dari keluarga instrumen saron dalam gamelan",
+      "Menghasilkan suara satu oktaf lebih rendah dibanding saron barung",
+      "Membutuhkan teknik meredam bilah logam dengan tangan setelah dipukul"
+    ],
+    "featured": false
+  },
+  {
+    "id": 19,
+    "slug": "ganda",
+    "name": "Ganda",
+    "region": "Sulawesi Tengah",
+    "type": "Pukul",
+    "image": "/images/instruments/ganda-main.jpg",
+    "images": [
+      "/images/instruments/ganda-1.jpg",
+      "/images/instruments/ganda-2.jpg"
+    ],
+    "description": "Ganda mempunyai bentuk menyerupai gendang dengan ukuran lebih kecil dan ramping. Alat musik ganda dimainkan dengan cara ditabuh.",
+    "history": "Berkembang di kalangan masyarakat Sulawesi Tengah khususnya suku Kaili sebagai alat komunikasi dan musik penyambut upacara.",
+    "function": "Sebagai pengiring tarian tradisional suku Kaili dan upacara adat di Sulawesi Tengah.",
+    "howToPlay": "Pukul bagian membran kulit di kedua ujung ganda dengan telapak tangan mengikuti pola ritme tari.",
+    "materials": "Kayu solid dan kulit binatang (kambing)",
+    "audioUrl": "/audio/ganda.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -1.43,
+      "lng": 121.4457
+    },
+    "facts": [
+      "Bentuknya menyerupai gendang silinder panjang tapi lebih ramping",
+      "Dimainkan murni menggunakan pukulan telapak tangan tanpa stik",
+      "Sering digunakan untuk mengiringi tarian sakral adat"
+    ],
+    "featured": false
+  },
+  {
+    "id": 20,
+    "slug": "geso-geso",
+    "name": "Geso-geso",
+    "region": "Sulawesi Selatan",
+    "type": "Gesek",
+    "image": "/images/instruments/geso-geso-main.jpg",
+    "images": [
+      "/images/instruments/geso-geso-1.jpg",
+      "/images/instruments/geso-geso-2.jpg"
+    ],
+    "description": "Geso-geso atau keso-keso terbuat dari bambu dan tempurung kelapa. Alat musik ini dimainkan dengan cara digesek.",
+    "history": "Geso-geso (atau Keso-keso) lahir dari kebudayaan rakyat Toraja dan Bugis di Sulawesi Selatan sebagai ekspresi seni melodi gesek.",
+    "function": "Alat musik hiburan pribadi bagi para petani serta pengiring dongeng cerita rakyat suku Bugis.",
+    "howToPlay": "Gesek senar menggunakan busur serat ijuk seraya menekan senar pada leher kayu geso-geso.",
+    "materials": "Kayu, tempurung kelapa, dan kulit hewan tipis",
+    "audioUrl": "/audio/geso-geso.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -3.6687,
+      "lng": 119.974
+    },
+    "facts": [
+      "Wadah resonatornya terbuat dari batok kelapa pilihan",
+      "Menggunakan busur gesek berbahan bambu dan serat ijuk",
+      "Hanya memiliki satu senar tunggal"
+    ],
+    "featured": false
+  },
+  {
+    "id": 21,
+    "slug": "burdah",
+    "name": "Burdah",
+    "region": "Sumatra Selatan",
+    "type": "Pukul",
+    "image": "/images/instruments/burdah-main.jpg",
+    "images": [
+      "/images/instruments/burdah-1.jpg",
+      "/images/instruments/burdah-2.jpg"
+    ],
+    "description": "Burdah memiliki bentuk seperti rebana atau dikenal sebagai gendang oku. Alat musik ini terbuat dari kulit binatang dan kayu, serta cara memainkannya dipukul.",
+    "history": "Berasal dari Ogan Komering Ulu, Sumatera Selatan, terpengaruh masuknya penyebaran Islam dan budaya Timur Tengah.",
+    "function": "Media dakwah keagamaan, pengiring selawat, serta upacara adat pernikahan Sumatera Selatan.",
+    "howToPlay": "Pegang burdah dengan satu tangan lalu pukul membran kulitnya menggunakan telapak tangan kanan.",
+    "materials": "Kayu nangka dan kulit kambing betina",
+    "audioUrl": "/audio/burdah.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -3.3194,
+      "lng": 104.9142
+    },
+    "facts": [
+      "Bentuknya menyerupai rebana dengan ukuran sedang hingga besar",
+      "Populer sebagai pengiring lagu pujian bernada Islam (Berzanji)",
+      "Menggunakan kulit kambing betina untuk suara yang nyaring"
+    ],
+    "featured": true
+  },
+  {
+    "id": 22,
+    "slug": "guriding",
+    "name": "Guriding",
+    "region": "Kalimantan Selatan",
+    "type": "Tiup",
+    "image": "/images/instruments/guriding-main.jpg",
+    "images": [
+      "/images/instruments/guriding-1.jpg",
+      "/images/instruments/guriding-2.jpg"
+    ],
+    "description": "Guriding atau kuriding adalah alat musik khas suku Banjar, Kalimantan Selatan yang terbuat dari pelepah enau, bambu, dan tali. Cara memainkannya ditempel ke bibir sambil menarik tali getar untuk menghasilkan suara.",
+    "history": "Alat musik tiup getar tradisional suku Banjar, Kalimantan Selatan yang kini keberadaannya sangat langka.",
+    "function": "Sebagai hiburan para petani Banjar saat menjaga padi di sawah dari gangguan burung.",
+    "howToPlay": "Tempelkan guriding di antara bibir, lalu tarik tali getarnya secara cepat dengan satu tangan seraya mengubah rongga mulut.",
+    "materials": "Pelepah kelapa aren atau bambu tipis",
+    "audioUrl": "/audio/guriding.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -3.0926,
+      "lng": 115.2838
+    },
+    "facts": [
+      "Merupakan varian Jew's Harp khas suku Banjar",
+      "Menggunakan getaran lidah bambu untuk menghasilkan frekuensi suara",
+      "Cara kerjanya bergantung pada rongga mulut pemain sebagai pengeras alami"
+    ],
+    "featured": false
+  },
+  {
+    "id": 23,
+    "slug": "lalove",
+    "name": "Lalove",
+    "region": "Sulawesi Tengah",
+    "type": "Tiup",
+    "image": "/images/instruments/lalove-main.jpg",
+    "images": [
+      "/images/instruments/lalove-1.jpg",
+      "/images/instruments/lalove-2.jpg"
+    ],
+    "description": "Lalove adalah alat musik tiup yang wujudnya seperti suling bambu tetapi ukurannya lebih panjang. Lalove sering digunakan untuk mengiringi musik tarian Sulawesi Tengah.",
+    "history": "Alat musik tiup tradisional suku Kaili di Sulawesi Tengah yang memiliki nilai spiritual mistis tinggi.",
+    "function": "Pengiring tari sakral penyembuhan penyakit (ritual Balia) di Sulawesi Tengah.",
+    "howToPlay": "Tiup corong lalove dengan pernapasan konstan sambil jari menutup lubang nada untuk memodulasi melodi.",
+    "materials": "Bambu buluh panjang",
+    "audioUrl": "/audio/lalove.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -1.43,
+      "lng": 121.4457
+    },
+    "facts": [
+      "Ukurannya jauh lebih panjang daripada suling bambu biasa",
+      "Merupakan instrumen sakral dalam ritual penyembuhan adat Balia",
+      "Dahulu dipercayai dapat mengundang roh halus leluhur"
+    ],
+    "featured": false
+  },
+  {
+    "id": 24,
+    "slug": "pupuik-tanduak",
+    "name": "Pupuik Tanduak",
+    "region": "Sumatra Barat",
+    "type": "Tiup",
+    "image": "/images/instruments/pupuik-tanduak-main.jpg",
+    "images": [
+      "/images/instruments/pupuik-tanduak-1.jpg",
+      "/images/instruments/pupuik-tanduak-2.jpg"
+    ],
+    "description": "Pupuik Tanduak merupakan alat musik khas Minangkabau yang terbuat dari tanduk kerbau. Alat musik ini menghasilkan suara dengan cara ditiup.",
+    "history": "Berasal dari kebudayaan Minangkabau di Sumatera Barat, lahir dari pemanfaatan tanduk kerbau sebagai simbol budaya.",
+    "function": "Penanda waktu subuh, isyarat darurat bahaya, atau alat pemanggil warga berkumpul oleh penghulu adat.",
+    "howToPlay": "Tiup lubang kecil pada bagian ujung tanduk kerbau dengan tiupan udara yang kuat.",
+    "materials": "Tanduk kerbau asli",
+    "audioUrl": "/audio/pupuik-tanduak.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -0.9492,
+      "lng": 100.4172
+    },
+    "facts": [
+      "Terbuat dari tanduk kerbau yang dibersihkan dan dilubangi ujungnya",
+      "Menghasilkan frekuensi suara melengking keras yang khas",
+      "Berfungsi mirip seperti sirine tradisional"
+    ],
+    "featured": false
+  },
+  {
+    "id": 25,
+    "slug": "siter",
+    "name": "Siter",
+    "region": "Jawa Tengah",
+    "type": "Petik",
+    "image": "/images/instruments/siter-main.jpg",
+    "images": [
+      "/images/instruments/siter-1.jpg",
+      "/images/instruments/siter-2.jpg"
+    ],
+    "description": "Siter termasuk alat musik pendukung dari gamelan. Siter terbuat dari kayu dan memiliki 12 nada yang disetel dengan senar. Siter dimainkan dengan cara dipetik.",
+    "history": "Siter merupakan bagian dari keluarga instrumen zither dalam musik gamelan Jawa yang berkembang pesat sejak masa kraton.",
+    "function": "Membawa melodi ornamen cepat (cengkok) dalam ansambel musik Gamelan Jawa.",
+    "howToPlay": "Petik senar siter menggunakan kedua ibu jari Anda secara cepat dan bergantian.",
+    "materials": "Kayu jati berongga dan kawat logam",
+    "audioUrl": "/audio/siter.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -7.1501,
+      "lng": 110.1403
+    },
+    "facts": [
+      "Memiliki susunan kawat baja di bagian atas kotak resonansi kayu",
+      "Memiliki dua sisi nada berbeda (Slendro dan Pelog)",
+      "Dimainkan dengan memetik kawat menggunakan kuku jempol khusus"
+    ],
+    "featured": false
+  },
+  {
+    "id": 26,
+    "slug": "talindo",
+    "name": "Talindo",
+    "region": "Sulawesi Tengah",
+    "type": "Petik",
+    "image": "/images/instruments/talindo-main.jpg",
+    "images": [
+      "/images/instruments/talindo-1.jpg",
+      "/images/instruments/talindo-2.jpg"
+    ],
+    "description": "Talindo atau tolindo merupakan alat musik tradisional suku Toraja berbentuk unik yang terbuat dari kayu solid, satu buah senar, dan tempurung kelapa. Talindo dimainkan dengan cara dipetik.",
+    "history": "Dikenal dengan nama Talindo di Tana Toraja dan Tolindo di daerah Bugis, merupakan instrumen petik dawai tunggal purba.",
+    "function": "Sebagai musik hiburan bagi para gembala kerbau suku Toraja setelah bekerja.",
+    "howToPlay": "Petik senar tunggalnya dengan jari satu tangan seraya menekan tiang kayu pembawa senar untuk mengubah nada.",
+    "materials": "Kayu solid, senar kawat, dan tempurung kelapa",
+    "audioUrl": "/audio/talindo.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -1.43,
+      "lng": 121.4457
+    },
+    "facts": [
+      "Merupakan gitar satu senar berdesain unik",
+      "Bentuknya menyerupai busur panah dengan resonator batok kelapa",
+      "Biasa dimainkan oleh anak laki-laki suku Toraja"
+    ],
+    "featured": true
+  },
+  {
+    "id": 27,
+    "slug": "bende",
+    "name": "Bende",
+    "region": "Lampung",
+    "type": "Pukul",
+    "image": "/images/instruments/bende-main.jpg",
+    "images": [
+      "/images/instruments/bende-1.jpg",
+      "/images/instruments/bende-2.jpg"
+    ],
+    "description": "Alat musik bende memiliki bentuk seperi gong tapi ukurannya lebih kecil. Bende dapat menghasilkan bunyi dengan cara dipukul dengan alat khusus.",
+    "history": "Bende digunakan di daerah Lampung sebagai alat pemberi aba-aba atau pengumuman penting oleh utusan raja.",
+    "function": "Sebagai alat pemberi isyarat, aba-aba perang, atau pengiring upacara adat Lampung.",
+    "howToPlay": "Gantungkan bende, lalu pukul bagian pencunya menggunakan pemukul kayu pendek berselubung karet.",
+    "materials": "Kuningan atau perunggu tebal",
+    "audioUrl": "/audio/bende.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -4.5586,
+      "lng": 105.4
+    },
+    "facts": [
+      "Merupakan gong berukuran kecil",
+      "Dahulu digunakan untuk mengumpulkan warga",
+      "Dibuat dari kuningan padat"
+    ],
+    "featured": false
+  },
+  {
+    "id": 28,
+    "slug": "ceng-ceng",
+    "name": "Ceng-ceng",
+    "region": "Bali",
+    "type": "Pukul",
+    "image": "/images/instruments/ceng-ceng-main.jpg",
+    "images": [
+      "/images/instruments/ceng-ceng-1.jpg",
+      "/images/instruments/ceng-ceng-2.jpg"
+    ],
+    "description": "Ceng-ceng adalah salah satu elemen penting dalam perangkat gamelan Bali. Bentuknya seperti keping dari bahan logam dan dimainkan dengan cara memadukan kepingannya.",
+    "history": "Telah digunakan berabad-abad dalam kebudayaan Bali, berkembang seiring kemajuan seni gamelan Bali yang dinamis.",
+    "function": "Mengatur dinamika dan memberikan ketukan ritmis cepat dalam Gamelan Gong Kebyar Bali.",
+    "howToPlay": "Pegang sepasang kepingan ceng-ceng atas dan pukulkan/benturkan pada kepingan ceng-ceng bawah yang terpasang di tatakan kayu.",
+    "materials": "Tembaga, kuningan, atau perunggu",
+    "audioUrl": "/audio/ceng-ceng.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -8.4095,
+      "lng": 115.1889
+    },
+    "facts": [
+      "Terdiri atas kepingan simbal logam bulat kecil",
+      "Menciptakan efek suara gemerincing logam yang sangat cepat",
+      "Merupakan ciri khas ritmis yang membedakan gamelan Bali dari gamelan Jawa"
+    ],
+    "featured": false
+  },
+  {
+    "id": 29,
+    "slug": "garantung",
+    "name": "Garantung",
+    "region": "Sumatra Utara",
+    "type": "Pukul",
+    "image": "/images/instruments/garantung-main.jpg",
+    "images": [
+      "/images/instruments/garantung-1.jpg",
+      "/images/instruments/garantung-2.jpg"
+    ],
+    "description": "Garantung termasuk alat musik tradisional khas Batak Toba yang terbuat dari bambu atau kayu. Garantung dimainkan dengan cara dipukul.",
+    "history": "Berkembang di tanah Toba, Sumatera Utara sebagai bagian dari ekspresi seni musik tradisi Batak sejak masa pra-Kristen.",
+    "function": "Membawa melodi pembimbing dalam ansambel Gondang Hasapi Batak Toba.",
+    "howToPlay": "Pukul bilah-bilah kayu dengan kedua tangan menggunakan pemukul stik kayu kecil.",
+    "materials": "Kayu garu atau kayu lokal Batak",
+    "audioUrl": "/audio/garantung.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": 2.1154,
+      "lng": 99.0765
+    },
+    "facts": [
+      "Merupakan xylophone tradisional Batak Toba",
+      "Terdiri dari 5 hingga 7 bilah kayu bernada",
+      "Dimainkan menggunakan dua pemukul kayu bergantian"
+    ],
+    "featured": false
+  },
+  {
+    "id": 30,
+    "slug": "gonrang",
+    "name": "Gonrang",
+    "region": "Sumatra Utara",
+    "type": "Pukul",
+    "image": "/images/instruments/gonrang-main.jpg",
+    "images": [
+      "/images/instruments/gonrang-1.jpg",
+      "/images/instruments/gonrang-2.jpg"
+    ],
+    "description": "Gonrang memiliki bentuk seperti gendang pada umumnya, dan dimainkan dengan cara dipukul agar menghasilkan bunyi.",
+    "history": "Berasal dari tradisi musik Simalungun, Sumatera Utara, melambangkan keagungan adat leluhur.",
+    "function": "Sebagai penentu tempo dalam upacara kematian, adat perkawinan, dan pesta panen Simalungun.",
+    "howToPlay": "Pukul kedua sisi membran kulit gonrang menggunakan telapak tangan atau pemukul stik rotan.",
+    "materials": "Kayu nangka, kulit sapi, dan rotan pembelah",
+    "audioUrl": "/audio/gonrang.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": 2.1154,
+      "lng": 99.0765
+    },
+    "facts": [
+      "Merupakan seperangkat gendang dari Simalungun",
+      "Sering dimainkan secara berkelompok dalam jumlah ganjil",
+      "Suaranya dianggap sakral dan berwibawa"
+    ],
+    "featured": false
+  },
+  {
+    "id": 31,
+    "slug": "saluang",
+    "name": "Saluang",
+    "region": "Sumatra Barat",
+    "type": "Tiup",
+    "image": "/images/instruments/saluang-main.jpg",
+    "images": [
+      "/images/instruments/saluang-1.jpg",
+      "/images/instruments/saluang-2.jpg"
+    ],
+    "description": "Saluang termasuk alat musik tradisional tiup khas Minangkabau. Alat musik ini terbuat dari bambu tipis atau talang.",
+    "history": "Alat musik tiup tradisional khas Minangkabau yang dibuat dari bambu talang bekas jemuran karena dipercaya menghasilkan suara lebih merdu.",
+    "function": "Mengiringi lagu-lagu rakyat (Dendang) Minangkabau dalam acara hiburan malam hari.",
+    "howToPlay": "Tiup lubang bagian atas saluang secara miring sambil jari menutup lubang nada.",
+    "materials": "Bambu talang tipis khas Minangkabau",
+    "audioUrl": "/audio/saluang.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -0.9492,
+      "lng": 100.4172
+    },
+    "facts": [
+      "Terbuat dari bambu talang yang tipis untuk suara lebih melengking",
+      "Hanya memiliki empat buah lubang penentu nada",
+      "Pemainnya melatih teknik pernapasan melingkar agar suara tidak putus"
+    ],
+    "featured": true
+  },
+  {
+    "id": 32,
+    "slug": "santu",
+    "name": "Santu",
+    "region": "Sulawesi Tengah",
+    "type": "Petik",
+    "image": "/images/instruments/santu-main.jpg",
+    "images": [
+      "/images/instruments/santu-1.jpg",
+      "/images/instruments/santu-2.jpg"
+    ],
+    "description": "Santu terbuat dari bambu dan alat musik ini bisa dimasukkan ke dalam jenis gitar tabung, dan cara memainkannya dipetik.",
+    "history": "Lahir di pedalaman Sulawesi Tengah sebagai kreativitas agraris memanfaatkan bambu lokal.",
+    "function": "Alat musik hiburan pribadi para pemuda Kaili saat senggang atau menjaga sawah.",
+    "howToPlay": "Petik senar sayatan bambunya menggunakan jari tangan seraya memukul badan bambu secara berirama.",
+    "materials": "Bambu betung besar",
+    "audioUrl": "/audio/santu.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -1.43,
+      "lng": 121.4457
+    },
+    "facts": [
+      "Merupakan gitar tabung bambu kuno",
+      "Dawai-dawainya dibentuk dengan menyayat kulit bambu luar",
+      "Memiliki lubang resonansi di bagian tengah tabung bambu"
+    ],
+    "featured": false
+  },
+  {
+    "id": 33,
+    "slug": "serunai",
+    "name": "Serunai",
+    "region": "Sumatra Barat",
+    "type": "Tiup",
+    "image": "/images/instruments/serunai-main.jpg",
+    "images": [
+      "/images/instruments/serunai-1.jpg",
+      "/images/instruments/serunai-2.jpg"
+    ],
+    "description": "Serunai atau puput serunai adalah instrumen musik tiup seperti halnya seruling, yang terbuat dari dua potong kayu atau bambu berongga.",
+    "history": "Diduga terpengaruh oleh instrumen 'shehnai' dari India Barat dan diadaptasi ke kebudayaan Minangkabau.",
+    "function": "Mengiringi pertunjukan Pencak Silat, upacara perkawinan Minangkabau, dan pacu jawi (balap sapi).",
+    "howToPlay": "Tiup mouthpiece daun lontar pada serunai seraya membuka-tutup lubang nada.",
+    "materials": "Kayu jati, bambu, dan daun kelapa/lontar",
+    "audioUrl": "/audio/serunai.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -0.9492,
+      "lng": 100.4172
+    },
+    "facts": [
+      "Corong pengeras suaranya menyerupai terompet terbuat dari daun kelapa",
+      "Menghasilkan suara melengking nyaring mirip oboe",
+      "Menjadi pengambil melodi utama dalam acara keramaian adat"
+    ],
+    "featured": false
+  },
+  {
+    "id": 34,
+    "slug": "panting",
+    "name": "Panting",
+    "region": "Kalimantan Selatan",
+    "type": "Petik",
+    "image": "/images/instruments/panting-main.jpg",
+    "images": [
+      "/images/instruments/panting-1.jpg",
+      "/images/instruments/panting-2.jpg"
+    ],
+    "description": "Panting berasal dari Suku Banjar, Kalimantan Selatan. Disebut panting karena ini alat musik petik yang terbuat dari kayu nangka dan dibentuk mirip gitar berukuran ramping.",
+    "history": "Muncul pertama kali di Tapin, Kalimantan Selatan pada abad ke-18 sebagai hiburan rakyat Banjar.",
+    "function": "Mengiringi kesenian lagu Banjar dan upacara adat penyambutan tamu kehormatan.",
+    "howToPlay": "Petik senar-senarnya menggunakan jemari tangan kanan sambil jari tangan kiri memencet nada pada leher kayu.",
+    "materials": "Kayu nangka dan senar kawat/nilon",
+    "audioUrl": "/audio/panting.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -3.0926,
+      "lng": 115.2838
+    },
+    "facts": [
+      "Bentuknya mirip gitar dengan ukuran lebih mungil dan ramping",
+      "Merupakan identitas musik utama suku Banjar",
+      "Sekarang dimainkan berpadu dalam format orkes Panting"
+    ],
+    "featured": false
+  },
+  {
+    "id": 35,
+    "slug": "celempung",
+    "name": "Celempung",
+    "region": "Jawa Barat",
+    "type": "Pukul",
+    "image": "/images/instruments/celempung-main.jpg",
+    "images": [
+      "/images/instruments/celempung-1.jpg",
+      "/images/instruments/celempung-2.jpg"
+    ],
+    "description": "Celempung adalah alat musik yang terbuat dari bambu dengan diameter 50-70 cm. Bambu-bambu tersebut disusun sesuai urutan nada, lalu dimainkan dengan cara dipukul memakai alat bantu.",
+    "history": "Merupakan kreativitas masyarakat pedesaan Sunda Jawa Barat dalam menciptakan alat musik bersuara petik namun dimainkan dengan dipukul.",
+    "function": "Mengatur ritmik dan harmonisasi lagu dalam ansambel musik Celempungan Sunda.",
+    "howToPlay": "Pukul senar sayatan bambu menggunakan pemukul kayu kecil berbalut karet, seraya tangan kiri mengatur lubang udara di ujung bambu.",
+    "materials": "Bambu gombong besar",
+    "audioUrl": "/audio/celempung.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -6.9147,
+      "lng": 107.6098
+    },
+    "facts": [
+      "Menggunakan bilah bambu tipis yang dibelah di badan bambu sebagai senar getar",
+      "Suara resonansi diatur dengan membuka-tutup lubang udara di ujung bambu",
+      "Bahan pembuatannya murni dari alam tanpa logam"
+    ],
+    "featured": false
+  },
+  {
+    "id": 36,
+    "slug": "gambang",
+    "name": "Gambang",
+    "region": "Jawa Tengah",
+    "type": "Pukul",
+    "image": "/images/instruments/gambang-main.jpg",
+    "images": [
+      "/images/instruments/gambang-1.jpg",
+      "/images/instruments/gambang-2.jpg"
+    ],
+    "description": "Alat musik gambang seringkali digunakan dalam orkes gambang kromong. Bentuknya terbuat dari 18-20 bilah bambu atau kayu, dan cara memainkannya dengan dipukul.",
+    "history": "Telah digunakan dalam seni musik Jawa Tengah sejak masa kerajaan kuno, menjadi penghubung melodi dalam orkes.",
+    "function": "Membawa alur lagu melodi ornamen cepat dalam orkes Gamelan Jawa dan orkes Gambang Kromong Betawi.",
+    "howToPlay": "Pukul bilah-bilah kayu dengan stik pemukul bundar menggunakan kedua tangan Anda secara beriringan.",
+    "materials": "Bilah kayu jati atau kayu lara, dan dudukan kayu jati",
+    "audioUrl": "/audio/gambang.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -7.1501,
+      "lng": 110.1403
+    },
+    "facts": [
+      "Memiliki susunan bilah kayu sebanyak 18 hingga 20 bilah",
+      "Dimainkan menggunakan dua buah stik pemukul berujung bundar empuk",
+      "Menghasilkan melodi ornamen bertempo cepat yang ceria"
+    ],
+    "featured": true
+  },
+  {
+    "id": 37,
+    "slug": "gender",
+    "name": "Gender",
+    "region": "Jawa Tengah",
+    "type": "Pukul",
+    "image": "/images/instruments/gender-main.jpg",
+    "images": [
+      "/images/instruments/gender-1.jpg",
+      "/images/instruments/gender-2.jpg"
+    ],
+    "description": "Gender termasuk bagian dari gamelan berupa alat musik pukul logam atau metalofon yang terdiri atas 10-14 bilah logam bernada.",
+    "history": "Instrumen metalofon bernilai estetis tinggi yang telah berkembang di tanah Jawa sejak abad ke-10.",
+    "function": "Membawa melodi pembuka yang anggun dan lembut dalam ansambel musik Gamelan Jawa Tengah.",
+    "howToPlay": "Pukul bilah logam dengan stik pemukul bundar, lalu langsung redam bilah tersebut menggunakan telapak tangan sesaat setelah nada berikutnya dipukul.",
+    "materials": "Bilah kuningan/perunggu dan tabung resonator bambu",
+    "audioUrl": "/audio/gender.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -7.1501,
+      "lng": 110.1403
+    },
+    "facts": [
+      "Memiliki tabung resonator bambu vertikal di bawah setiap bilah logam",
+      "Memerlukan teknik meredam bunyi bilah logam dengan telapak tangan",
+      "Menghasilkan suara mendengung lembut yang magis dan anggun"
+    ],
+    "featured": false
+  },
+  {
+    "id": 38,
+    "slug": "ketipung",
+    "name": "Ketipung",
+    "region": "Jawa Timur",
+    "type": "Pukul",
+    "image": "/images/instruments/ketipung-main.jpg",
+    "images": [
+      "/images/instruments/ketipung-1.jpg",
+      "/images/instruments/ketipung-2.jpg"
+    ],
+    "description": "Ketipung memiliki bentuk yang mirip seperti gendang tetapi ukurannya lebih kecil. Alat musik ini terbuat dari kayu dan banyak digunakan pada musik keroncong hingga dangdut.",
+    "history": "Ketipung berakar dari musik tradisional Jawa Timur yang kemudian diadopsi ke dalam musik keroncong dan dangdut modern.",
+    "function": "Pengatur ketukan ritmis dinamis dalam musik dangdut, keroncong, dan gamelan Jawa Timur.",
+    "howToPlay": "Pukul membran kulit menggunakan telapak tangan dan jari dengan ketukan cepat yang menghasilkan bunyi pling dan dut.",
+    "materials": "Kayu jati bubutan dan kulit kambing/lembaran karet",
+    "audioUrl": "/audio/ketipung.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -7.536,
+      "lng": 112.2384
+    },
+    "facts": [
+      "Merupakan jenis kendang terkecil dalam musik gamelan dan dangdut",
+      "Memiliki dua sisi membran (sisi pling bernada tinggi dan dut bernada rendah)",
+      "Sangat digemari karena menjadi jiwa ritmis dalam musik dangdut Indonesia"
+    ],
+    "featured": false
+  },
+  {
+    "id": 39,
+    "slug": "gendang-beleq",
+    "name": "Gendang Beleq",
+    "region": "Nusa Tenggara Barat (NTB)",
+    "type": "Pukul",
+    "image": "/images/instruments/gendang-beleq-main.jpg",
+    "images": [
+      "/images/instruments/gendang-beleq-1.jpg",
+      "/images/instruments/gendang-beleq-2.jpg"
+    ],
+    "description": "Gendeng beleq merupakan alat musik gendang khas suku Sasak, Lombok. Gendeng beleq berbentuk seperti gendang pada umumnya, terbuat dari kayu dan kulit serta dimainkan dengan cara dipukul.",
+    "history": "Alat musik kebanggaan suku Sasak di Lombok, NTB, yang menjadi lambang keberanian dan keagungan prajurit.",
+    "function": "Kesenian orkes perkusi penyambut tamu agung dan festival budaya suku Sasak di Lombok.",
+    "howToPlay": "Gendong gendang beleq di pundak, lalu pukul kedua sisinya menggunakan pemukul kayu khusus seraya menari.",
+    "materials": "Kayu meranti bubutan besar, kulit sapi tebal, dan tali pasak",
+    "audioUrl": "/audio/gendang-beleq.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -8.6529,
+      "lng": 117.3616
+    },
+    "facts": [
+      "Nama Beleq berarti besar dalam bahasa suku Sasak",
+      "Dimainkan sambil digendong oleh penabuhnya yang menari dinamis",
+      "Dahulu dimainkan untuk menyemangati para prajurit Lombok pergi berperang"
+    ],
+    "featured": false
+  },
+  {
+    "id": 40,
+    "slug": "terompet-reog",
+    "name": "Terompet Reog",
+    "region": "Jawa Timur",
+    "type": "Tiup",
+    "image": "/images/instruments/terompet-reog-main.jpg",
+    "images": [
+      "/images/instruments/terompet-reog-1.jpg",
+      "/images/instruments/terompet-reog-2.jpg"
+    ],
+    "description": "Terompet reog berasal dari Ponorogo, Jawa Timur yang terkenal dengan kesenian reog dan sudah mendunia. Cara memainkannya ditiup, bentuknya kecil mengerucut, serta terbuat dari tempurung kelapa.",
+    "history": "Berasal dari Ponorogo, Jawa Timur. Terompet ini dibuat untuk mengimbangi suara gamelan reog yang keras dan menambah nuansa magis.",
+    "function": "Melodi pemimpin ornamen mistis dalam kesenian tari Reog Ponorogo.",
+    "howToPlay": "Tiup pipa terompet reog dengan pernapasan kuat seraya menutup lubang nada untuk memicu melodi melengking.",
+    "materials": "Kayu mahoni, pipa kuningan, dan tempurung kelapa",
+    "audioUrl": "/audio/terompet-reog.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -7.536,
+      "lng": 112.2384
+    },
+    "facts": [
+      "Memiliki corong pangkal dari tempurung kelapa",
+      "Menghasilkan suara melengking mistis yang sangat kuat",
+      "Hanya ditiup khusus dalam pementasan kesenian Reog Ponorogo"
+    ],
+    "featured": false
+  },
+  {
+    "id": 41,
+    "slug": "atowo",
+    "name": "Atowo",
+    "region": "Papua",
+    "type": "Pukul",
+    "image": "/images/instruments/atowo-main.jpg",
+    "images": [
+      "/images/instruments/atowo-1.jpg",
+      "/images/instruments/atowo-2.jpg"
+    ],
+    "description": "Atowo adalah alat musik pukul yang bentuknya mirip tabung dan terbuat dari kayu. Ciri khas bentuknya selalu memiliki ukiran, tetapi alat musik tradisional ini sudah mulai langka.",
+    "history": "Alat musik pukul tradisional asli Papua yang dahulu digunakan sebagai instrumen pengiring tarian ritual adat kuno.",
+    "function": "Sebagai musik hiburan rakyat Papua dan pengiring tarian adat sakral suku pedalaman.",
+    "howToPlay": "Pegang atowo dengan satu tangan, lalu pukul bagian membrannya menggunakan tangan yang lain.",
+    "materials": "Kayu lokal Papua diukir dan kulit rusa",
+    "audioUrl": "/audio/atowo.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -4.2699,
+      "lng": 138.0804
+    },
+    "facts": [
+      "Berbentuk silinder ramping dengan ukiran khas suku pedalaman Papua",
+      "Ukurannya jauh lebih ringan daripada tifa Papua biasa",
+      "Keberadaannya saat ini sangat langka dan sulit ditemui"
+    ],
+    "featured": true
+  },
+  {
+    "id": 42,
+    "slug": "cangor",
+    "name": "Cangor",
+    "region": "Jambi",
+    "type": "Petik",
+    "image": "/images/instruments/cangor-main.jpg",
+    "images": [
+      "/images/instruments/cangor-1.jpg",
+      "/images/instruments/cangor-2.jpg"
+    ],
+    "description": "Cangor merupakan alat musik sitar tabung dari Jambi yang terpengaruh budaya Melayu. Bentuknya silinder karena terbuat dari bambu, yang kulitnya disisit atau dicungkil agar fungsinya menyerupai senar.",
+    "history": "Berkembang di kalangan masyarakat agraris Jambi sebagai sarana rekreasi musik sederhana memanfaatkan bambu hutan.",
+    "function": "Alat musik pengisi waktu luang petani Jambi saat beristirahat di gubuk sawah.",
+    "howToPlay": "Pangku cangor secara miring, petik senar sayatan bambu menggunakan jari tangan.",
+    "materials": "Bambu buluh panjang",
+    "audioUrl": "/audio/cangor.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -1.6101,
+      "lng": 103.6131
+    },
+    "facts": [
+      "Merupakan instrumen sitar tabung dari bambu",
+      "Dawai-dawainya disayat langsung dari kulit luar bambu itu sendiri",
+      "Tumbuh subur di pedalaman Jambi dengan pengaruh melayu"
+    ],
+    "featured": false
+  },
+  {
+    "id": 43,
+    "slug": "kecrek",
+    "name": "Kecrek",
+    "region": "Betawi",
+    "type": "Guncang",
+    "image": "/images/instruments/kecrek-main.jpg",
+    "images": [
+      "/images/instruments/kecrek-1.jpg",
+      "/images/instruments/kecrek-2.jpg"
+    ],
+    "description": "Kecrek atau tamborin termasuk alat musik tradisional Indonesia dari suku Betawi. Kecrek menggunakan logam tipis yang dipasang tersusun di pegangan kayu. Kecrek dimainkan dengan cara digoyang agar menghasilkan suara gemerincing.",
+    "history": "Diadopsi oleh kesenian Betawi dari pengaruh instrumen perkusi Tionghoa dan berkembang menjadi bagian musik Lenong.",
+    "function": "Penambah aksen musik ritmis gemerincing dalam Lenong, Topeng Betawi, dan Gambang Kromong.",
+    "howToPlay": "Guncangkan kecrek menggunakan tangan Anda secara ritmis mengikuti ketukan musik pengiring.",
+    "materials": "Lempengan logam besi/kuningan dan gagang kayu jati",
+    "audioUrl": "/audio/kecrek.mp3",
+    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "mapCoords": {
+      "lat": -6.2088,
+      "lng": 106.8456
+    },
+    "facts": [
+      "Menggunakan beberapa pasang logam bulat pipih tipis",
+      "Menciptakan efek suara gemerincing logam yang nyaring dan ritmis",
+      "Sangat populer dalam pertunjukan teater rakyat Lenong Betawi"
+    ],
     "featured": false
   }
 ]
