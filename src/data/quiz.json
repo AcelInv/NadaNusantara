@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Alat musik Angklung berasal dari daerah mana?",
+    "options": ["Jawa Tengah", "Jawa Barat", "Sumatera Barat", "Bali"],
+    "answer": 1,
+    "explanation": "Angklung adalah alat musik khas Sunda dari Jawa Barat yang terbuat dari bambu."
+  },
+  {
+    "id": 2,
+    "question": "Sasando adalah alat musik petik dari pulau mana?",
+    "options": ["Flores", "Timor", "Rote", "Sumba"],
+    "answer": 2,
+    "explanation": "Sasando berasal dari Pulau Rote, Nusa Tenggara Timur."
+  },
+  {
+    "id": 3,
+    "question": "Alat musik apa yang menjadi pemimpin irama dalam ansambel Gamelan?",
+    "options": ["Gong", "Saron", "Kendang", "Rebab"],
+    "answer": 2,
+    "explanation": "Kendang berperan sebagai pengatur tempo dan dinamika dalam ansambel gamelan."
+  },
+  {
+    "id": 4,
+    "question": "UNESCO mengakui Angklung sebagai Warisan Budaya Tak Benda pada tahun berapa?",
+    "options": ["2008", "2010", "2012", "2015"],
+    "answer": 1,
+    "explanation": "Angklung diakui UNESCO sebagai Warisan Budaya Tak Benda pada tahun 2010."
+  },
+  {
+    "id": 5,
+    "question": "Sape adalah alat musik petik khas suku mana?",
+    "options": ["Batak", "Dayak", "Toraja", "Bugis"],
+    "answer": 1,
+    "explanation": "Sape adalah alat musik petik tradisional suku Dayak Kenyah dari Kalimantan."
+  },
+  {
+    "id": 6,
+    "question": "Tifa adalah alat musik perkusi khas daerah mana?",
+    "options": ["Sulawesi", "Kalimantan", "Papua dan Maluku", "Sumatera"],
+    "answer": 2,
+    "explanation": "Tifa adalah alat musik perkusi khas Papua dan Maluku."
+  },
+  {
+    "id": 7,
+    "question": "Talempong berasal dari kebudayaan mana?",
+    "options": ["Melayu", "Minangkabau", "Batak", "Aceh"],
+    "answer": 1,
+    "explanation": "Talempong adalah instrumen khas budaya Minangkabau dari Sumatera Barat."
+  },
+  {
+    "id": 8,
+    "question": "Serune Kalee adalah alat musik tiup dari daerah mana?",
+    "options": ["Aceh", "Sumatera Utara", "Riau", "Jambi"],
+    "answer": 0,
+    "explanation": "Serune Kalee adalah alat musik tiup tradisional dari Aceh."
+  },
+  {
+    "id": 9,
+    "question": "Kolintang terbuat dari bahan apa?",
+    "options": ["Bambu", "Perunggu", "Bilah kayu", "Kawat baja"],
+    "answer": 2,
+    "explanation": "Kolintang terbuat dari bilah-bilah kayu yang disusun secara horizontal."
+  },
+  {
+    "id": 10,
+    "question": "Gambar alat musik apa yang terdapat pada uang kertas Rp 5.000?",
+    "options": ["Gamelan", "Angklung", "Sasando", "Kolintang"],
+    "answer": 2,
+    "explanation": "Sasando dari Pulau Rote, NTT, tergambar pada uang kertas Rp 5.000."
+  }
+]
