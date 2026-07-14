@@ -29,7 +29,7 @@ export default function LandingPage() {
       <section ref={heroRef} className="relative h-screen flex items-center justify-center overflow-hidden">
         <motion.div style={{ y: heroY }} className="absolute inset-0">
           <img
-            src="https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=1920&q=80"
+            src="/images/hero-bg.jpg"
             alt="Gamelan background"
             className="w-full h-full object-cover"
           />

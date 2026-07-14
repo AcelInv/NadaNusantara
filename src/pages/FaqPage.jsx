@@ -8,7 +8,6 @@ const faqs = [
   { q: 'Apa tujuan website Nusantara Sound?', a: 'Website ini bertujuan untuk mengenalkan dan melestarikan alat musik tradisional Indonesia kepada masyarakat luas, terutama generasi muda, melalui platform multimedia interaktif.' },
   { q: 'Berapa banyak alat musik yang tersedia?', a: 'Saat ini tersedia 15 alat musik tradisional dari berbagai daerah di Indonesia. Koleksi ini akan terus bertambah secara berkala.' },
   { q: 'Apakah saya bisa mendengarkan suara alat musik?', a: 'Ya! Setiap halaman detail alat musik dilengkapi dengan player audio untuk mendengarkan suara asli alat musik tersebut.' },
-  { q: 'Bagaimana cara menyimpan alat musik favorit saya?', a: 'Klik ikon bookmark pada kartu alat musik atau halaman detail untuk menyimpannya ke daftar favorit. Data bookmark disimpan di browser Anda.' },
   { q: 'Apakah website ini bisa diakses di ponsel?', a: 'Tentu! Website ini dirancang responsif dan dapat diakses dengan nyaman di semua perangkat, termasuk smartphone dan tablet.' },
   { q: 'Bagaimana cara menambahkan alat musik baru ke database?', a: 'Buka file src/data/instruments.json dan tambahkan objek baru mengikuti struktur yang sudah ada. Lihat README.md untuk panduan lengkap.' },
   { q: 'Apakah data alat musik akurat?', a: 'Kami berusaha menyajikan informasi yang akurat berdasarkan sumber-sumber terpercaya. Jika menemukan kesalahan, silakan hubungi kami.' },

@@ -1,12 +1,12 @@
 import { useParams, Link, useNavigate } from 'react-router-dom'
 import { useState, useMemo } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { FiArrowLeft, FiBookmark, FiMapPin, FiMusic, FiX, FiChevronRight, FiPlay, FiRefreshCw } from 'react-icons/fi'
-import toast from 'react-hot-toast'
+import { FiArrowLeft, FiMapPin, FiMusic, FiX, FiChevronRight, FiPlay, FiRefreshCw } from 'react-icons/fi'
 import PageWrapper from '../components/common/PageWrapper'
 import instruments from '../data/instruments.json'
 import { useApp } from '../context/AppContext'
 import { generateQuizForInstrument } from '../utils/quizGenerator'
+import ScaleDemonstrator from '../components/common/ScaleDemonstrator'
 
 function AudioPlayer({ url }) {
   const { darkMode } = useApp()
@@ -26,7 +26,7 @@ function AudioPlayer({ url }) {
 export default function DetailPage() {
   const { slug } = useParams()
   const navigate = useNavigate()
-  const { darkMode, toggleBookmark, isBookmarked } = useApp()
+  const { darkMode } = useApp()
   const [activeImg, setActiveImg] = useState(null)
   const [activeTab, setActiveTab] = useState('sejarah')
 
@@ -37,6 +37,7 @@ export default function DetailPage() {
     () => instrument ? generateQuizForInstrument(instrument, instruments) : [],
     [slug] // eslint-disable-line react-hooks/exhaustive-deps
   )
+
   const [quizPhase, setQuizPhase] = useState('idle') // idle | active | done
   const [qIdx, setQIdx] = useState(0)
   const [qSelected, setQSelected] = useState(null)
@@ -67,7 +68,6 @@ export default function DetailPage() {
     </div>
   )
 
-  const bookmarked = isBookmarked(instrument.id)
   const tabs = ['sejarah', 'cara memainkan', 'bahan', 'fakta']
 
   const related = instruments.filter(i => i.region === instrument.region && i.id !== instrument.id).slice(0, 3)
@@ -140,21 +140,12 @@ export default function DetailPage() {
                   <span className={`text-sm ${darkMode ? 'text-[#F5ECD7]/60' : 'text-[#8B5E3C]'}`}>{instrument.region}</span>
                 </div>
               </div>
-              <motion.button
-                whileTap={{ scale: 0.85 }}
-                onClick={() => {
-                  toggleBookmark(instrument.id)
-                  toast(bookmarked ? 'Dihapus dari bookmark' : `${instrument.name} disimpan!`, { icon: bookmarked ? '🗑️' : '🔖' })
-                }}
-                className={`p-3 rounded-xl border transition-colors ${bookmarked ? 'bg-[#C9A84C] border-[#C9A84C] text-white' : darkMode ? 'border-[#C9A84C]/30 text-[#C9A84C]' : 'border-[#C9A84C]/40 text-[#C9A84C]'}`}
-              >
-                <FiBookmark size={18} fill={bookmarked ? 'currentColor' : 'none'} />
-              </motion.button>
             </div>
 
             <p className={`text-sm leading-relaxed mb-6 ${darkMode ? 'text-[#F5ECD7]/70' : 'text-[#3D2B1F]/70'}`}>
               {instrument.description}
             </p>
+
 
             {/* Tabs */}
             <div className="flex flex-wrap gap-2 mb-4">
@@ -193,11 +184,21 @@ export default function DetailPage() {
               <p className={`text-sm ${darkMode ? 'text-[#F5ECD7]/70' : 'text-[#3D2B1F]/70'}`}>{instrument.function}</p>
             </div>
 
-            {/* Audio */}
-            <div>
-              <h4 className={`font-semibold text-sm mb-2 ${darkMode ? 'text-[#F5ECD7]' : 'text-[#3D2B1F]'}`}>🔊 Audio</h4>
-              <AudioPlayer url={instrument.audioUrl} />
-            </div>
+            {/* Scale Demonstrator */}
+            {instrument?.scaleData ? (
+              <div className="mb-4">
+                <ScaleDemonstrator 
+                  scaleName={instrument.scaleData.name} 
+                  notes={instrument.scaleData.notes || []} 
+                  instrumentType={instrument.type}
+                />
+              </div>
+            ) : (
+              <div className="mb-4 p-4 rounded-xl border border-dashed border-gray-300 text-center opacity-60">
+                Data audio belum tersedia
+              </div>
+            )}
+
 
             {/* Facts */}
             {instrument.facts?.length > 0 && (

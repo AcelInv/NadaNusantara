@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion'
 import PageWrapper from '../components/common/PageWrapper'
 import { useApp } from '../context/AppContext'
+import instruments from '../data/instruments.json'
 
 const values = [
   { icon: '🎵', title: 'Pelestarian Budaya', desc: 'Mendokumentasikan dan mengenalkan kekayaan alat musik tradisional agar tidak terlupakan.' },
@@ -13,6 +14,11 @@ export default function AboutPage() {
   const text = darkMode ? 'text-[#F5ECD7]' : 'text-[#3D2B1F]'
   const muted = darkMode ? 'text-[#F5ECD7]/60' : 'text-[#3D2B1F]/60'
   const card = darkMode ? 'bg-[#2A1515] border-[#C9A84C]/20' : 'bg-white border-[#C9A84C]/20'
+
+  const totalInstruments = instruments.length
+  const totalProvinces = new Set(instruments.map(i => i.region)).size
+  const totalQuizQuestions = instruments.length * 4
+  const totalPages = 9
 
   return (
     <PageWrapper>
@@ -34,7 +40,7 @@ export default function AboutPage() {
         <div className="max-w-4xl mx-auto px-4 py-16 space-y-10">
           {/* Mission */}
           <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} className={`p-8 rounded-2xl border ${card}`}>
-            <h2 className={`text-2xl font-black mb-4 ${text}`}>🎯 Misi Kami</h2>
+            <h2 className={`text-2xl font-black mb-4 ${text}`}>Misi Kami</h2>
             <p className={`text-sm leading-relaxed ${muted}`}>
               Indonesia memiliki lebih dari 300 jenis alat musik tradisional yang tersebar di ribuan pulau. Sayangnya, banyak di antaranya mulai terlupakan di tengah arus modernisasi. Nusantara Sound hadir sebagai jembatan antara warisan budaya masa lalu dengan generasi digital masa kini.
             </p>
@@ -45,7 +51,7 @@ export default function AboutPage() {
 
           {/* Values */}
           <div>
-            <h2 className={`text-2xl font-black mb-6 text-center ${text}`}>💎 Nilai Kami</h2>
+            <h2 className={`text-2xl font-black mb-6 text-center ${text}`}>Nilai Kami</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
               {values.map((v, i) => (
                 <motion.div key={i} initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: i * 0.1 }}
@@ -61,9 +67,14 @@ export default function AboutPage() {
           {/* Stats */}
           <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }}
             className={`p-8 rounded-2xl border ${card}`}>
-            <h2 className={`text-2xl font-black mb-6 ${text}`}>📊 Tentang Konten</h2>
+            <h2 className={`text-2xl font-black mb-6 ${text}`}>Tentang Konten</h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
-              {[{ n: '15+', l: 'Alat Musik' }, { n: '12', l: 'Provinsi' }, { n: '10', l: 'Soal Kuis' }, { n: '9', l: 'Halaman' }].map((s, i) => (
+              {[
+                { n: `${totalInstruments}`, l: 'Alat Musik' },
+                { n: `${totalProvinces}`, l: 'Provinsi' },
+                { n: `${totalQuizQuestions}`, l: 'Soal Kuis' },
+                { n: `${totalPages}`, l: 'Halaman' }
+              ].map((s, i) => (
                 <div key={i}>
                   <div className="text-3xl font-black text-[#C9A84C]">{s.n}</div>
                   <div className={`text-sm mt-1 ${muted}`}>{s.l}</div>

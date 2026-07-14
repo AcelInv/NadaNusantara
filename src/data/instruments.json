@@ -5,17 +5,17 @@
     "name": "Gamelan",
     "region": "Jawa Tengah",
     "type": "Pukul",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Indonesean_Gamelan.jpg/1280px-Indonesean_Gamelan.jpg",
+    "image": "/images/instruments/gamelan-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Indonesean_Gamelan.jpg/1280px-Indonesean_Gamelan.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gamelan_degung.jpg/1280px-Gamelan_degung.jpg"
+      "/images/instruments/gamelan-main.jpg",
+      "/images/instruments/gamelan-1.jpg",
+      "/images/instruments/gamelan-2.jpg"
     ],
     "description": "Gamelan adalah ansambel musik tradisional Jawa dan Bali yang terdiri dari berbagai instrumen perkusi seperti gong, kenong, dan kendang.",
     "history": "Gamelan telah ada sejak abad ke-8 Masehi, disebutkan dalam berbagai prasasti kerajaan Hindu-Buddha di Jawa. Kata 'gamel' berasal dari bahasa Jawa yang berarti memukul atau menabuh.",
     "function": "Gamelan berfungsi sebagai pengiring upacara adat, pertunjukan wayang kulit, tari tradisional, dan ritual keagamaan.",
     "howToPlay": "Pemain memukul instrumen menggunakan pemukul khusus (tabuh) dengan teknik tertentu. Setiap instrumen memiliki peran melodi atau ritmik tersendiri dalam ansambel.",
     "materials": "Perunggu, kuningan, besi, kayu jati, dan kulit binatang untuk kendang.",
-    "audioUrl": "",
     "videoUrl": "https://www.youtube.com/embed/UEWCCSuHsuQ",
     "mapCoords": {
       "lat": -7.1501,
@@ -26,7 +26,47 @@
       "Terdapat lebih dari 30 jenis gamelan di Nusantara",
       "Nada gamelan tidak mengikuti standar Barat"
     ],
-    "featured": true
+    "featured": true,
+    "scaleData": {
+      "name": "Laras Pelog Pathet Barang (Gamelan)",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/gamelan/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/gamelan/ro.mp3",
+          "frequency": 290
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/gamelan/lu.mp3",
+          "frequency": 325
+        },
+        {
+          "label": "Pi (4)",
+          "audio": "/audio/gamelan/pi.mp3",
+          "frequency": 370
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/gamelan/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/gamelan/nem.mp3",
+          "frequency": 435
+        },
+        {
+          "label": "Barang (7)",
+          "audio": "/audio/gamelan/barang.mp3",
+          "frequency": 490
+        }
+      ]
+    }
   },
   {
     "id": 2,
@@ -34,17 +74,18 @@
     "name": "Angklung",
     "region": "Jawa Barat",
     "type": "Guncang",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Angklung_choir.jpg/1280px-Angklung_choir.jpg",
+    "image": "/images/instruments/angklung-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Angklung_choir.jpg/1280px-Angklung_choir.jpg"
+      "/images/instruments/angklung-main.jpg",
+      "/images/instruments/angklung-1.jpg",
+      "/images/instruments/angklung-2.jpg"
     ],
     "description": "Angklung adalah alat musik multitonal dari bambu khas Sunda, Jawa Barat, yang menghasilkan suara saat digoyangkan.",
     "history": "Angklung telah digunakan oleh suku Sunda sejak abad ke-7 dalam upacara pemujaan Dewi Sri. UNESCO mengakuinya sebagai Warisan Budaya Tak Benda pada 2010.",
     "function": "Dimainkan dalam upacara adat, pertunjukan seni, dan pendidikan musik di seluruh dunia.",
     "howToPlay": "Pegang angklung pada bingkai dan goyangkan ke kiri-kanan secara ritmis. Setiap angklung menghasilkan satu nada.",
     "materials": "Bambu hitam (awi wulung) dan bambu putih (awi temen).",
-    "audioUrl": "",
-    "videoUrl": "https://www.youtube.com/embed/UbqA-uqQfFg",
+    "videoUrl": "https://www.youtube.com/embed/7aCftg3ufyo",
     "mapCoords": {
       "lat": -6.9147,
       "lng": 107.6098
@@ -54,7 +95,52 @@
       "Saung Angklung Udjo adalah pusat angklung terkenal di Bandung",
       "Pernah dimainkan oleh 5.000 orang sekaligus"
     ],
-    "featured": true
+    "featured": true,
+    "scaleData": {
+      "name": "Tangga Nada Diatonis (Bambu Sunda)",
+      "notes": [
+        {
+          "label": "Do (1)",
+          "audio": "/audio/angklung/do.mp3",
+          "frequency": 261.63
+        },
+        {
+          "label": "Re (2)",
+          "audio": "/audio/angklung/re.mp3",
+          "frequency": 293.66
+        },
+        {
+          "label": "Mi (3)",
+          "audio": "/audio/angklung/mi.mp3",
+          "frequency": 329.63
+        },
+        {
+          "label": "Fa (4)",
+          "audio": "/audio/angklung/fa.mp3",
+          "frequency": 349.23
+        },
+        {
+          "label": "Sol (5)",
+          "audio": "/audio/angklung/sol.mp3",
+          "frequency": 392
+        },
+        {
+          "label": "La (6)",
+          "audio": "/audio/angklung/la.mp3",
+          "frequency": 440
+        },
+        {
+          "label": "Si (7)",
+          "audio": "/audio/angklung/si.mp3",
+          "frequency": 493.88
+        },
+        {
+          "label": "Do' (i)",
+          "audio": "/audio/angklung/do-tinggi.mp3",
+          "frequency": 523.25
+        }
+      ]
+    }
   },
   {
     "id": 3,
@@ -62,17 +148,18 @@
     "name": "Sasando",
     "region": "Nusa Tenggara Timur",
     "type": "Petik",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sasando_instrument.jpg/800px-Sasando_instrument.jpg",
+    "image": "/images/instruments/sasando-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sasando_instrument.jpg/800px-Sasando_instrument.jpg"
+      "/images/instruments/sasando-main.jpg",
+      "/images/instruments/sasando-1.jpg",
+      "/images/instruments/sasando-2.jpg"
     ],
     "description": "Sasando adalah alat musik petik khas Pulau Rote, NTT, berbentuk tabung dari daun lontar dengan senar yang dipetik.",
     "history": "Berasal dari Pulau Rote sejak abad ke-7. Legenda menyebut instrumen ini diciptakan oleh seorang pemuda bernama Sangguana.",
     "function": "Pengiring nyanyian, upacara adat, dan hiburan masyarakat Rote.",
     "howToPlay": "Petik senar dengan kedua tangan. Tangan kanan memainkan melodi, tangan kiri memainkan akord.",
     "materials": "Daun lontar, bambu, dan kawat baja.",
-    "audioUrl": "",
-    "videoUrl": "https://www.youtube.com/embed/YcNpThwWNpE",
+    "videoUrl": "https://www.youtube.com/embed/FHQJSO1n9EQ",
     "mapCoords": {
       "lat": -10.746,
       "lng": 123.007
@@ -82,7 +169,42 @@
       "Suaranya mirip harpa Barat",
       "Gambar sasando ada di uang Rp5000"
     ],
-    "featured": true
+    "featured": true,
+    "scaleData": {
+      "name": "Tangga Nada Pentatonis Petik (Kecapi/Sasando)",
+      "notes": [
+        {
+          "label": "Da (1)",
+          "audio": "/audio/sasando/da.mp3",
+          "frequency": 261.63
+        },
+        {
+          "label": "Mi (2)",
+          "audio": "/audio/sasando/mi.mp3",
+          "frequency": 311.13
+        },
+        {
+          "label": "Na (3)",
+          "audio": "/audio/sasando/na.mp3",
+          "frequency": 349.23
+        },
+        {
+          "label": "Ti (4)",
+          "audio": "/audio/sasando/ti.mp3",
+          "frequency": 392
+        },
+        {
+          "label": "La (5)",
+          "audio": "/audio/sasando/la.mp3",
+          "frequency": 466.16
+        },
+        {
+          "label": "Da' (i)",
+          "audio": "/audio/sasando/da-tinggi.mp3",
+          "frequency": 523.25
+        }
+      ]
+    }
   },
   {
     "id": 4,
@@ -90,17 +212,18 @@
     "name": "Sape",
     "region": "Kalimantan Timur",
     "type": "Petik",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sape_Dayak_Kenyah.jpg/800px-Sape_Dayak_Kenyah.jpg",
+    "image": "/images/instruments/sape-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sape_Dayak_Kenyah.jpg/800px-Sape_Dayak_Kenyah.jpg"
+      "/images/instruments/sape-main.jpg",
+      "/images/instruments/sape-1.jpg",
+      "/images/instruments/sape-2.jpg"
     ],
     "description": "Sape adalah alat musik petik tradisional suku Dayak Kenyah dari Kalimantan, terbuat dari kayu ukiran.",
     "history": "Sape digunakan suku Dayak sejak berabad-abad lalu, awalnya untuk ritual pengobatan dan komunikasi dengan roh leluhur.",
     "function": "Pengiring tari Dayak, ritual adat, dan hiburan.",
     "howToPlay": "Petik senar 2-4 yang ada menggunakan jari, sambil menekan fret kayu untuk menghasilkan nada.",
     "materials": "Kayu belian (ulin) atau kayu adau.",
-    "audioUrl": "",
-    "videoUrl": "https://www.youtube.com/embed/dN7IJVDYNLQ",
+    "videoUrl": "https://www.youtube.com/embed/IkGbFSWPPhk",
     "mapCoords": {
       "lat": 0.5387,
       "lng": 116.4194
@@ -110,7 +233,42 @@
       "Sape modern kadang memiliki 4-6 senar",
       "Diakui sebagai identitas musik Kalimantan"
     ],
-    "featured": true
+    "featured": true,
+    "scaleData": {
+      "name": "Tangga Nada Sape Sampe' (Kalimantan)",
+      "notes": [
+        {
+          "label": "Do (1)",
+          "audio": "/audio/sape/do.mp3",
+          "frequency": 261.63
+        },
+        {
+          "label": "Re (2)",
+          "audio": "/audio/sape/re.mp3",
+          "frequency": 293.66
+        },
+        {
+          "label": "Fa (4)",
+          "audio": "/audio/sape/fa.mp3",
+          "frequency": 349.23
+        },
+        {
+          "label": "Sol (5)",
+          "audio": "/audio/sape/sol.mp3",
+          "frequency": 392
+        },
+        {
+          "label": "La (6)",
+          "audio": "/audio/sape/la.mp3",
+          "frequency": 440
+        },
+        {
+          "label": "Do' (i)",
+          "audio": "/audio/sape/do-tinggi.mp3",
+          "frequency": 523.25
+        }
+      ]
+    }
   },
   {
     "id": 5,
@@ -118,17 +276,18 @@
     "name": "Kolintang",
     "region": "Sulawesi Utara",
     "type": "Pukul",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kolintang.jpg/1280px-Kolintang.jpg",
+    "image": "/images/instruments/kolintang-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kolintang.jpg/1280px-Kolintang.jpg"
+      "/images/instruments/kolintang-main.jpg",
+      "/images/instruments/kolintang-1.jpg",
+      "/images/instruments/kolintang-2.jpg"
     ],
     "description": "Kolintang adalah alat musik idiofon dari Minahasa, Sulawesi Utara, terbuat dari bilah kayu yang disusun horizontal.",
     "history": "Berasal dari suku Minahasa. Nama 'kolintang' dari ungkapan 'tong ting tang' bunyi alat musiknya.",
     "function": "Pengiring upacara adat, hiburan rakyat, dan orkestra kolintang modern.",
     "howToPlay": "Pukul bilah kayu menggunakan 3 pemukul berbeda untuk berbagai register nada.",
     "materials": "Kayu telur, kayu cempaka, atau kayu waru.",
-    "audioUrl": "",
-    "videoUrl": "https://www.youtube.com/embed/oJH3YVZN3-E",
+    "videoUrl": "https://www.youtube.com/embed/9L9qun5O9_k",
     "mapCoords": {
       "lat": 1.4748,
       "lng": 124.8421
@@ -138,7 +297,52 @@
       "Orkes kolintang bisa terdiri dari 7 pemain",
       "Dimainkan dalam misa gereja Minahasa"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Tangga Nada Diatonis Kayu",
+      "notes": [
+        {
+          "label": "Do (1)",
+          "audio": "/audio/kolintang/do.mp3",
+          "frequency": 261.63
+        },
+        {
+          "label": "Re (2)",
+          "audio": "/audio/kolintang/re.mp3",
+          "frequency": 293.66
+        },
+        {
+          "label": "Mi (3)",
+          "audio": "/audio/kolintang/mi.mp3",
+          "frequency": 329.63
+        },
+        {
+          "label": "Fa (4)",
+          "audio": "/audio/kolintang/fa.mp3",
+          "frequency": 349.23
+        },
+        {
+          "label": "Sol (5)",
+          "audio": "/audio/kolintang/sol.mp3",
+          "frequency": 392
+        },
+        {
+          "label": "La (6)",
+          "audio": "/audio/kolintang/la.mp3",
+          "frequency": 440
+        },
+        {
+          "label": "Si (7)",
+          "audio": "/audio/kolintang/si.mp3",
+          "frequency": 493.88
+        },
+        {
+          "label": "Do' (i)",
+          "audio": "/audio/kolintang/do-tinggi.mp3",
+          "frequency": 523.25
+        }
+      ]
+    }
   },
   {
     "id": 6,
@@ -146,17 +350,18 @@
     "name": "Tifa",
     "region": "Papua",
     "type": "Pukul",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tifa_Papua.jpg/800px-Tifa_Papua.jpg",
+    "image": "/images/instruments/tifa-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tifa_Papua.jpg/800px-Tifa_Papua.jpg"
+      "/images/instruments/tifa-main.jpg",
+      "/images/instruments/tifa-1.jpg",
+      "/images/instruments/tifa-2.jpg"
     ],
     "description": "Tifa adalah alat musik perkusi khas Papua dan Maluku, berupa gendang silindris yang dipukul dengan tangan.",
     "history": "Tifa digunakan suku-suku asli Papua dan Maluku dalam upacara perang, perdamaian, dan ritual adat.",
     "function": "Mengiringi tarian perang, ritual adat, dan penyambutan tamu.",
     "howToPlay": "Pegang tifa secara vertikal atau horisontal lalu pukul membran atas menggunakan telapak tangan.",
     "materials": "Kayu lenggua, kulit rusa, atau kulit biawak.",
-    "audioUrl": "",
-    "videoUrl": "https://www.youtube.com/embed/l7OMzAFgRGU",
+    "videoUrl": "https://www.youtube.com/embed/uTFvRazN0v8",
     "mapCoords": {
       "lat": -4.2699,
       "lng": 138.0804
@@ -166,7 +371,32 @@
       "Tifa termasuk kategori membranofon",
       "Bunyi tifa dapat terdengar dari jarak jauh"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Ritme & Ketukan Perkusi Membran",
+      "notes": [
+        {
+          "label": "Dut",
+          "audio": "/audio/tifa/dut.mp3",
+          "frequency": 120
+        },
+        {
+          "label": "Tak",
+          "audio": "/audio/tifa/tak.mp3",
+          "frequency": 350
+        },
+        {
+          "label": "Tong",
+          "audio": "/audio/tifa/tong.mp3",
+          "frequency": 220
+        },
+        {
+          "label": "Plak",
+          "audio": "/audio/tifa/plak.mp3",
+          "frequency": 400
+        }
+      ]
+    }
   },
   {
     "id": 7,
@@ -174,17 +404,18 @@
     "name": "Rebab",
     "region": "Jawa & Sunda",
     "type": "Gesek",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rebab_Java.jpg/800px-Rebab_Java.jpg",
+    "image": "/images/instruments/rebab-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rebab_Java.jpg/800px-Rebab_Java.jpg"
+      "/images/instruments/rebab-main.jpg",
+      "/images/instruments/rebab-1.jpg",
+      "/images/instruments/rebab-2.jpg"
     ],
     "description": "Rebab adalah alat musik gesek bersenar dua yang masuk ke Indonesia melalui jalur perdagangan Arab.",
     "history": "Rebab masuk ke Nusantara sejak abad ke-9 melalui pedagang Arab dan Persia, kemudian diserap ke dalam budaya Jawa dan Sunda.",
     "function": "Instrumen melodi utama dalam gamelan Jawa dan Sunda, pengiring wayang.",
     "howToPlay": "Gesek senar menggunakan busur (bow) sambil menekan senar dengan jari untuk menghasilkan nada.",
     "materials": "Kayu, kulit binatang untuk resonator, ekor kuda untuk senar busur.",
-    "audioUrl": "",
-    "videoUrl": "https://www.youtube.com/embed/3q7K-VUJZM8",
+    "videoUrl": "https://www.youtube.com/embed/6vDHrPE0mJQ",
     "mapCoords": {
       "lat": -7.7956,
       "lng": 110.3695
@@ -194,7 +425,42 @@
       "Busur rebab tidak menggunakan rosin seperti biola Barat",
       "Suara rebab dianggap sakral dalam pertunjukan wayang"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/rebab/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/rebab/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/rebab/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/rebab/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/rebab/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/rebab/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 8,
@@ -202,17 +468,18 @@
     "name": "Kecapi",
     "region": "Jawa Barat",
     "type": "Petik",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kecapi_suling.jpg/1280px-Kecapi_suling.jpg",
+    "image": "/images/instruments/kecapi-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kecapi_suling.jpg/1280px-Kecapi_suling.jpg"
+      "/images/instruments/kecapi-main.jpg",
+      "/images/instruments/kecapi-1.jpg",
+      "/images/instruments/kecapi-2.jpg"
     ],
     "description": "Kecapi adalah alat musik petik khas Sunda berbentuk perahu dengan 15-20 senar.",
     "history": "Kecapi berasal dari suku Sunda dan sudah ada sejak masa Kerajaan Sunda. Bentuknya menyerupai perahu yang melambangkan perjalanan hidup.",
     "function": "Instrumen utama dalam kecapi suling, tembang Sunda, dan pantun Sunda.",
     "howToPlay": "Petik senar dengan jari telunjuk dan ibu jari kedua tangan secara bergantian.",
     "materials": "Kayu nangka atau kenanga, kawat baja untuk senar.",
-    "audioUrl": "",
-    "videoUrl": "https://www.youtube.com/embed/5BFhFUGOYbM",
+    "videoUrl": "https://www.youtube.com/embed/klk2O9Z_9eo",
     "mapCoords": {
       "lat": -6.9147,
       "lng": 107.6098
@@ -222,7 +489,42 @@
       "Senar kecapi dahulu terbuat dari usus ikan",
       "Kecapi digunakan dalam ritual Hajat Lembur"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Tangga Nada Pentatonis Petik (Kecapi/Sasando)",
+      "notes": [
+        {
+          "label": "Da (1)",
+          "audio": "/audio/kecapi/da.mp3",
+          "frequency": 261.63
+        },
+        {
+          "label": "Mi (2)",
+          "audio": "/audio/kecapi/mi.mp3",
+          "frequency": 311.13
+        },
+        {
+          "label": "Na (3)",
+          "audio": "/audio/kecapi/na.mp3",
+          "frequency": 349.23
+        },
+        {
+          "label": "Ti (4)",
+          "audio": "/audio/kecapi/ti.mp3",
+          "frequency": 392
+        },
+        {
+          "label": "La (5)",
+          "audio": "/audio/kecapi/la.mp3",
+          "frequency": 466.16
+        },
+        {
+          "label": "Da' (i)",
+          "audio": "/audio/kecapi/da-tinggi.mp3",
+          "frequency": 523.25
+        }
+      ]
+    }
   },
   {
     "id": 9,
@@ -230,17 +532,18 @@
     "name": "Suling",
     "region": "Seluruh Indonesia",
     "type": "Tiup",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Suling.jpg/800px-Suling.jpg",
+    "image": "/images/instruments/suling-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Suling.jpg/800px-Suling.jpg"
+      "/images/instruments/suling-main.jpg",
+      "/images/instruments/suling-1.jpg",
+      "/images/instruments/suling-2.jpg"
     ],
     "description": "Suling adalah alat musik tiup dari bambu yang tersebar di seluruh kepulauan Indonesia dengan berbagai variasi.",
     "history": "Suling telah ada sejak ribuan tahun lalu dan ditemukan di berbagai kebudayaan Nusantara. Suling Sunda berbeda dari suling Bali dan Jawa.",
     "function": "Melodi dalam ansambel gamelan, musik solo, dan pengiring tari.",
     "howToPlay": "Tiup lubang embouchure sambil menutup lubang nada dengan jari-jari untuk menghasilkan melodi.",
     "materials": "Bambu tamiang atau bambu wulung.",
-    "audioUrl": "",
-    "videoUrl": "https://www.youtube.com/embed/aMzN7kDLNqI",
+    "videoUrl": "https://www.youtube.com/embed/TbtQ8LL4cC4",
     "mapCoords": {
       "lat": -2.5489,
       "lng": 118.0149
@@ -250,7 +553,37 @@
       "Nada suling tergantung panjang bambu",
       "Suling digunakan dalam musik Bali untuk upacara kremasi"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Tiup Tradisional",
+      "notes": [
+        {
+          "label": "Da (1)",
+          "audio": "/audio/suling/da.mp3",
+          "frequency": 329.63
+        },
+        {
+          "label": "Mi (2)",
+          "audio": "/audio/suling/mi.mp3",
+          "frequency": 392
+        },
+        {
+          "label": "Na (3)",
+          "audio": "/audio/suling/na.mp3",
+          "frequency": 440
+        },
+        {
+          "label": "Ti (4)",
+          "audio": "/audio/suling/ti.mp3",
+          "frequency": 493.88
+        },
+        {
+          "label": "La (5)",
+          "audio": "/audio/suling/la.mp3",
+          "frequency": 587.33
+        }
+      ]
+    }
   },
   {
     "id": 10,
@@ -258,17 +591,18 @@
     "name": "Kendang",
     "region": "Jawa & Bali",
     "type": "Pukul",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kendang_Sunda.jpg/800px-Kendang_Sunda.jpg",
+    "image": "/images/instruments/kendang-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kendang_Sunda.jpg/800px-Kendang_Sunda.jpg"
+      "/images/instruments/kendang-main.jpg",
+      "/images/instruments/kendang-1.jpg",
+      "/images/instruments/kendang-2.jpg"
     ],
     "description": "Kendang adalah gendang dua sisi yang menjadi pemimpin irama dalam ansambel gamelan Jawa dan Bali.",
     "history": "Kendang telah disebutkan dalam prasasti dan relief candi Hindu-Buddha di Jawa sejak abad ke-9.",
     "function": "Pengatur tempo dan dinamika dalam gamelan, pengiring tari, dan upacara.",
     "howToPlay": "Pukul membran dengan telapak tangan dan jari, menggunakan berbagai teknik pukulan untuk variasi bunyi.",
     "materials": "Kayu nangka, kulit sapi atau kambing untuk membran.",
-    "audioUrl": "",
-    "videoUrl": "https://www.youtube.com/embed/5FN9KGf5VHc",
+    "videoUrl": "https://www.youtube.com/embed/1_tKJ8WslUA",
     "mapCoords": {
       "lat": -7.7956,
       "lng": 110.3695
@@ -278,7 +612,32 @@
       "Kendang Bali berbeda ritme dengan kendang Jawa",
       "Kendang memiliki peran seperti konduktor orkestra"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Ritme & Ketukan Perkusi Membran",
+      "notes": [
+        {
+          "label": "Dut",
+          "audio": "/audio/kendang/dut.mp3",
+          "frequency": 120
+        },
+        {
+          "label": "Tak",
+          "audio": "/audio/kendang/tak.mp3",
+          "frequency": 350
+        },
+        {
+          "label": "Tong",
+          "audio": "/audio/kendang/tong.mp3",
+          "frequency": 220
+        },
+        {
+          "label": "Plak",
+          "audio": "/audio/kendang/plak.mp3",
+          "frequency": 400
+        }
+      ]
+    }
   },
   {
     "id": 11,
@@ -286,17 +645,18 @@
     "name": "Gong",
     "region": "Jawa & Bali",
     "type": "Pukul",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Large_Javanese_Gong.jpg/800px-Large_Javanese_Gong.jpg",
+    "image": "/images/instruments/gong-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Large_Javanese_Gong.jpg/800px-Large_Javanese_Gong.jpg"
+      "/images/instruments/gong-main.jpg",
+      "/images/instruments/gong-1.jpg",
+      "/images/instruments/gong-2.jpg"
     ],
     "description": "Gong adalah instrumen utama gamelan berbentuk lingkaran besar dari perunggu yang menghasilkan suara resonansi dalam.",
     "history": "Gong dikenal di Asia Tenggara sejak 2000-3000 tahun lalu. Di Jawa, gong sakral disebut 'Kanjeng Kyai' dan dianggap memiliki kekuatan spiritual.",
     "function": "Penanda akhir frase melodi (gongan) dalam gamelan dan upacara kerajaan.",
     "howToPlay": "Pukul bagian tengah (pencu) menggunakan pemukul berujung kain untuk menghasilkan resonansi penuh.",
     "materials": "Perunggu campuran tembaga dan timah.",
-    "audioUrl": "",
-    "videoUrl": "https://www.youtube.com/embed/YaNCyMNrIe8",
+    "videoUrl": "https://www.youtube.com/embed/3hm4jm_YPNo",
     "mapCoords": {
       "lat": -7.7956,
       "lng": 110.3695
@@ -306,7 +666,42 @@
       "Pembuatan gong memerlukan keahlian khusus dan ritual",
       "Beberapa gong berusia ratusan tahun dan dianggap pusaka"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/gong/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/gong/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/gong/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/gong/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/gong/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/gong/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 12,
@@ -314,17 +709,18 @@
     "name": "Karinding",
     "region": "Jawa Barat",
     "type": "Tiup",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Karinding.jpg/800px-Karinding.jpg",
+    "image": "/images/instruments/karinding-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Karinding.jpg/800px-Karinding.jpg"
+      "/images/instruments/karinding-main.jpg",
+      "/images/instruments/karinding-1.jpg",
+      "/images/instruments/karinding-2.jpg"
     ],
     "description": "Karinding adalah alat musik tiup bibir kecil dari bambu atau pelepah aren khas Sunda.",
     "history": "Karinding awalnya digunakan para petani Sunda untuk mengusir hama dengan frekuensi suaranya sebelum berkembang menjadi alat musik.",
     "function": "Hiburan pribadi, ritual, dan kini musik kontemporer Sunda.",
     "howToPlay": "Tempelkan karinding di bibir, tarik batang pemicu, dan bentuk rongga mulut untuk memodulasi suara.",
     "materials": "Bambu tali atau pelepah aren.",
-    "audioUrl": "",
-    "videoUrl": "https://www.youtube.com/embed/ZjbGAQvzPJ0",
+    "videoUrl": "https://www.youtube.com/embed/wFnf5g1bkq0",
     "mapCoords": {
       "lat": -6.9147,
       "lng": 107.6098
@@ -334,7 +730,42 @@
       "Frekuensi suaranya bisa mengusir serangga",
       "Komunitas karinding aktif di Bandung"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/karinding/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/karinding/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/karinding/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/karinding/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/karinding/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/karinding/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 13,
@@ -342,17 +773,18 @@
     "name": "Serune Kalee",
     "region": "Aceh",
     "type": "Tiup",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Serunai.jpg/800px-Serunai.jpg",
+    "image": "/images/instruments/serune-kalee-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Serunai.jpg/800px-Serunai.jpg"
+      "/images/instruments/serune-kalee-main.jpg",
+      "/images/instruments/serune-kalee-1.jpg",
+      "/images/instruments/serune-kalee-2.jpg"
     ],
     "description": "Serune Kalee adalah alat musik tiup tradisional Aceh mirip clarinet, terbuat dari kayu dengan corong dari tanduk.",
     "history": "Serune Kalee digunakan sejak masa Kesultanan Aceh sebagai alat pemanggil prajurit dan pengiring upacara.",
     "function": "Pengiring tari Saman, peusijuek, dan upacara adat Aceh.",
     "howToPlay": "Tiup mouthpiece dari daun lontar dan tekan lubang nada untuk menghasilkan melodi.",
     "materials": "Kayu, tanduk kerbau, dan daun lontar.",
-    "audioUrl": "",
-    "videoUrl": "",
+    "videoUrl": "https://www.youtube.com/embed/LXNNUnfa06E",
     "mapCoords": {
       "lat": 4.6951,
       "lng": 96.7494
@@ -362,7 +794,37 @@
       "Tonalitasnya mirip oboe Barat",
       "Warna merahnya dari pewarna alami"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Tiup Tradisional",
+      "notes": [
+        {
+          "label": "Da (1)",
+          "audio": "/audio/serune-kalee/da.mp3",
+          "frequency": 329.63
+        },
+        {
+          "label": "Mi (2)",
+          "audio": "/audio/serune-kalee/mi.mp3",
+          "frequency": 392
+        },
+        {
+          "label": "Na (3)",
+          "audio": "/audio/serune-kalee/na.mp3",
+          "frequency": 440
+        },
+        {
+          "label": "Ti (4)",
+          "audio": "/audio/serune-kalee/ti.mp3",
+          "frequency": 493.88
+        },
+        {
+          "label": "La (5)",
+          "audio": "/audio/serune-kalee/la.mp3",
+          "frequency": 587.33
+        }
+      ]
+    }
   },
   {
     "id": 14,
@@ -370,17 +832,18 @@
     "name": "Aramba",
     "region": "Sumatera Utara",
     "type": "Pukul",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gondang_sabangunan.jpg/800px-Gondang_sabangunan.jpg",
+    "image": "/images/instruments/aramba-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gondang_sabangunan.jpg/800px-Gondang_sabangunan.jpg"
+      "/images/instruments/aramba-main.jpg",
+      "/images/instruments/aramba-1.jpg",
+      "/images/instruments/aramba-2.jpg"
     ],
     "description": "Aramba adalah alat musik pukul khas suku Nias berbentuk gong kecil dari perunggu.",
     "history": "Aramba digunakan dalam perang dan upacara adat suku Nias sejak ratusan tahun lalu.",
     "function": "Pengiring tari perang (Fahombo), upacara adat, dan ritual suku Nias.",
     "howToPlay": "Pukul permukaan aramba dengan pemukul kayu untuk menghasilkan bunyi nyaring.",
     "materials": "Perunggu campuran tembaga dan timah.",
-    "audioUrl": "",
-    "videoUrl": "",
+    "videoUrl": "https://www.youtube.com/embed/DDP_-h0LOJw",
     "mapCoords": {
       "lat": 1.157,
       "lng": 97.591
@@ -390,7 +853,42 @@
       "Ukurannya bervariasi dari kecil hingga besar",
       "Setiap ukuran menghasilkan nada berbeda"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/aramba/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/aramba/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/aramba/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/aramba/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/aramba/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/aramba/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 15,
@@ -398,17 +896,18 @@
     "name": "Talempong",
     "region": "Sumatera Barat",
     "type": "Pukul",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Talempong.jpg/800px-Talempong.jpg",
+    "image": "/images/instruments/talempong-main.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Talempong.jpg/800px-Talempong.jpg"
+      "/images/instruments/talempong-main.jpg",
+      "/images/instruments/talempong-1.jpg",
+      "/images/instruments/talempong-2.jpg"
     ],
     "description": "Talempong adalah instrumen perkusi Minangkabau berupa gong-gong kecil dari kuningan yang dimainkan secara ansambel.",
     "history": "Talempong telah ada sejak masa Kerajaan Pagaruyung di Sumatera Barat dan menjadi identitas musik Minangkabau.",
     "function": "Pengiring tari Piring, upacara adat pernikahan, dan arak-arakan.",
     "howToPlay": "Pukul permukaan talempong dengan pemukul kayu, biasanya dimainkan oleh 3 orang dengan pola interlocking.",
     "materials": "Kuningan atau perunggu.",
-    "audioUrl": "",
-    "videoUrl": "https://www.youtube.com/embed/FX7ySA37eeE",
+    "videoUrl": "https://www.youtube.com/embed/bzElfsao3lo",
     "mapCoords": {
       "lat": -0.9492,
       "lng": 100.4172
@@ -418,7 +917,42 @@
       "Talempong digunakan dalam prosesi adat Minangkabau",
       "Ada talempong pacik (digenggam) dan talempong duduak (diletakkan)"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/talempong/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/talempong/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/talempong/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/talempong/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/talempong/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/talempong/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 16,
@@ -428,6 +962,7 @@
     "type": "Pukul",
     "image": "/images/instruments/bonang-main.jpg",
     "images": [
+      "/images/instruments/bonang-main.jpg",
       "/images/instruments/bonang-1.jpg",
       "/images/instruments/bonang-2.jpg"
     ],
@@ -436,8 +971,7 @@
     "function": "Pembawa melodi perantara dan penuntun tempo dalam ansambel musik gamelan Jawa.",
     "howToPlay": "Pukul bagian pencon (tonjolan) bonang menggunakan sepasang tabuh (pemukul kayu berbalut benang/kain).",
     "materials": "Logam perunggu, kuningan, atau besi",
-    "audioUrl": "/audio/bonang.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/a32Yq44KqZ4",
     "mapCoords": {
       "lat": -7.536,
       "lng": 112.2384
@@ -447,7 +981,47 @@
       "Terdiri atas bonang barung dan bonang panerus",
       "Bagian krusial yang menuntun jalannya komposisi gamelan"
     ],
-    "featured": true
+    "featured": true,
+    "scaleData": {
+      "name": "Laras Pelog Pathet Barang (Gamelan)",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/bonang/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/bonang/ro.mp3",
+          "frequency": 290
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/bonang/lu.mp3",
+          "frequency": 325
+        },
+        {
+          "label": "Pi (4)",
+          "audio": "/audio/bonang/pi.mp3",
+          "frequency": 370
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/bonang/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/bonang/nem.mp3",
+          "frequency": 435
+        },
+        {
+          "label": "Barang (7)",
+          "audio": "/audio/bonang/barang.mp3",
+          "frequency": 490
+        }
+      ]
+    }
   },
   {
     "id": 17,
@@ -457,6 +1031,7 @@
     "type": "Pukul",
     "image": "/images/instruments/doli-doli-main.jpg",
     "images": [
+      "/images/instruments/doli-doli-main.jpg",
       "/images/instruments/doli-doli-1.jpg",
       "/images/instruments/doli-doli-2.jpg"
     ],
@@ -465,8 +1040,7 @@
     "function": "Dimainkan di ladang untuk menghibur diri serta bagian dari upacara adat ritual pertanian.",
     "howToPlay": "Pukul bilah-bilah kayu menggunakan dua stik pemukul kayu kecil untuk menghasilkan susunan nada.",
     "materials": "Kayu lokal Nias dan bambu",
-    "audioUrl": "/audio/doli-doli.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/8yO8m2Y0Q9c",
     "mapCoords": {
       "lat": 2.1154,
       "lng": 99.0765
@@ -476,7 +1050,42 @@
       "Dimainkan di atas pangkuan paha pemainnya",
       "Alat musik yang sangat erat dengan ritual ladang pertanian"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/doli-doli/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/doli-doli/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/doli-doli/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/doli-doli/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/doli-doli/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/doli-doli/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 18,
@@ -486,6 +1095,7 @@
     "type": "Pukul",
     "image": "/images/instruments/demung-main.jpg",
     "images": [
+      "/images/instruments/demung-main.jpg",
       "/images/instruments/demung-1.jpg",
       "/images/instruments/demung-2.jpg"
     ],
@@ -494,8 +1104,7 @@
     "function": "Membawa nada-nada melodi utama (balungan) dalam pertunjukan gamelan Jawa Tengah.",
     "howToPlay": "Pukul bilah logam menggunakan palu pemukul kayu khusus dengan tangan kanan, lalu gunakan jari tangan kiri untuk memegang/meredam bunyi bilah.",
     "materials": "Bilah logam perunggu atau kuningan, dan dudukan kayu jati",
-    "audioUrl": "/audio/demung.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/_K3k3C9eNfI",
     "mapCoords": {
       "lat": -7.1501,
       "lng": 110.1403
@@ -505,7 +1114,47 @@
       "Menghasilkan suara satu oktaf lebih rendah dibanding saron barung",
       "Membutuhkan teknik meredam bilah logam dengan tangan setelah dipukul"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Pelog Pathet Barang (Gamelan)",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/demung/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/demung/ro.mp3",
+          "frequency": 290
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/demung/lu.mp3",
+          "frequency": 325
+        },
+        {
+          "label": "Pi (4)",
+          "audio": "/audio/demung/pi.mp3",
+          "frequency": 370
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/demung/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/demung/nem.mp3",
+          "frequency": 435
+        },
+        {
+          "label": "Barang (7)",
+          "audio": "/audio/demung/barang.mp3",
+          "frequency": 490
+        }
+      ]
+    }
   },
   {
     "id": 19,
@@ -515,6 +1164,7 @@
     "type": "Pukul",
     "image": "/images/instruments/ganda-main.jpg",
     "images": [
+      "/images/instruments/ganda-main.jpg",
       "/images/instruments/ganda-1.jpg",
       "/images/instruments/ganda-2.jpg"
     ],
@@ -523,8 +1173,7 @@
     "function": "Sebagai pengiring tarian tradisional suku Kaili dan upacara adat di Sulawesi Tengah.",
     "howToPlay": "Pukul bagian membran kulit di kedua ujung ganda dengan telapak tangan mengikuti pola ritme tari.",
     "materials": "Kayu solid dan kulit binatang (kambing)",
-    "audioUrl": "/audio/ganda.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/hJ814gY5LGs",
     "mapCoords": {
       "lat": -1.43,
       "lng": 121.4457
@@ -534,7 +1183,42 @@
       "Dimainkan murni menggunakan pukulan telapak tangan tanpa stik",
       "Sering digunakan untuk mengiringi tarian sakral adat"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/ganda/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/ganda/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/ganda/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/ganda/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/ganda/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/ganda/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 20,
@@ -544,6 +1228,7 @@
     "type": "Gesek",
     "image": "/images/instruments/geso-geso-main.jpg",
     "images": [
+      "/images/instruments/geso-geso-main.jpg",
       "/images/instruments/geso-geso-1.jpg",
       "/images/instruments/geso-geso-2.jpg"
     ],
@@ -552,8 +1237,7 @@
     "function": "Alat musik hiburan pribadi bagi para petani serta pengiring dongeng cerita rakyat suku Bugis.",
     "howToPlay": "Gesek senar menggunakan busur serat ijuk seraya menekan senar pada leher kayu geso-geso.",
     "materials": "Kayu, tempurung kelapa, dan kulit hewan tipis",
-    "audioUrl": "/audio/geso-geso.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/N-0_s7U3H2Q",
     "mapCoords": {
       "lat": -3.6687,
       "lng": 119.974
@@ -563,7 +1247,42 @@
       "Menggunakan busur gesek berbahan bambu dan serat ijuk",
       "Hanya memiliki satu senar tunggal"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/geso-geso/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/geso-geso/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/geso-geso/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/geso-geso/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/geso-geso/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/geso-geso/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 21,
@@ -573,6 +1292,7 @@
     "type": "Pukul",
     "image": "/images/instruments/burdah-main.jpg",
     "images": [
+      "/images/instruments/burdah-main.jpg",
       "/images/instruments/burdah-1.jpg",
       "/images/instruments/burdah-2.jpg"
     ],
@@ -581,8 +1301,7 @@
     "function": "Media dakwah keagamaan, pengiring selawat, serta upacara adat pernikahan Sumatera Selatan.",
     "howToPlay": "Pegang burdah dengan satu tangan lalu pukul membran kulitnya menggunakan telapak tangan kanan.",
     "materials": "Kayu nangka dan kulit kambing betina",
-    "audioUrl": "/audio/burdah.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/H1QGq5Q7p7E",
     "mapCoords": {
       "lat": -3.3194,
       "lng": 104.9142
@@ -592,7 +1311,42 @@
       "Populer sebagai pengiring lagu pujian bernada Islam (Berzanji)",
       "Menggunakan kulit kambing betina untuk suara yang nyaring"
     ],
-    "featured": true
+    "featured": true,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/burdah/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/burdah/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/burdah/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/burdah/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/burdah/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/burdah/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 22,
@@ -602,6 +1356,7 @@
     "type": "Tiup",
     "image": "/images/instruments/guriding-main.jpg",
     "images": [
+      "/images/instruments/guriding-main.jpg",
       "/images/instruments/guriding-1.jpg",
       "/images/instruments/guriding-2.jpg"
     ],
@@ -610,8 +1365,7 @@
     "function": "Sebagai hiburan para petani Banjar saat menjaga padi di sawah dari gangguan burung.",
     "howToPlay": "Tempelkan guriding di antara bibir, lalu tarik tali getarnya secara cepat dengan satu tangan seraya mengubah rongga mulut.",
     "materials": "Pelepah kelapa aren atau bambu tipis",
-    "audioUrl": "/audio/guriding.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/h5Q8N1L0N78",
     "mapCoords": {
       "lat": -3.0926,
       "lng": 115.2838
@@ -621,7 +1375,42 @@
       "Menggunakan getaran lidah bambu untuk menghasilkan frekuensi suara",
       "Cara kerjanya bergantung pada rongga mulut pemain sebagai pengeras alami"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/guriding/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/guriding/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/guriding/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/guriding/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/guriding/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/guriding/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 23,
@@ -631,6 +1420,7 @@
     "type": "Tiup",
     "image": "/images/instruments/lalove-main.jpg",
     "images": [
+      "/images/instruments/lalove-main.jpg",
       "/images/instruments/lalove-1.jpg",
       "/images/instruments/lalove-2.jpg"
     ],
@@ -639,8 +1429,7 @@
     "function": "Pengiring tari sakral penyembuhan penyakit (ritual Balia) di Sulawesi Tengah.",
     "howToPlay": "Tiup corong lalove dengan pernapasan konstan sambil jari menutup lubang nada untuk memodulasi melodi.",
     "materials": "Bambu buluh panjang",
-    "audioUrl": "/audio/lalove.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/wE1zO4K5J8E",
     "mapCoords": {
       "lat": -1.43,
       "lng": 121.4457
@@ -650,7 +1439,42 @@
       "Merupakan instrumen sakral dalam ritual penyembuhan adat Balia",
       "Dahulu dipercayai dapat mengundang roh halus leluhur"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/lalove/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/lalove/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/lalove/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/lalove/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/lalove/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/lalove/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 24,
@@ -660,6 +1484,7 @@
     "type": "Tiup",
     "image": "/images/instruments/pupuik-tanduak-main.jpg",
     "images": [
+      "/images/instruments/pupuik-tanduak-main.jpg",
       "/images/instruments/pupuik-tanduak-1.jpg",
       "/images/instruments/pupuik-tanduak-2.jpg"
     ],
@@ -668,8 +1493,7 @@
     "function": "Penanda waktu subuh, isyarat darurat bahaya, atau alat pemanggil warga berkumpul oleh penghulu adat.",
     "howToPlay": "Tiup lubang kecil pada bagian ujung tanduk kerbau dengan tiupan udara yang kuat.",
     "materials": "Tanduk kerbau asli",
-    "audioUrl": "/audio/pupuik-tanduak.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/xLzY4T8c4p4",
     "mapCoords": {
       "lat": -0.9492,
       "lng": 100.4172
@@ -679,7 +1503,42 @@
       "Menghasilkan frekuensi suara melengking keras yang khas",
       "Berfungsi mirip seperti sirine tradisional"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/pupuik-tanduak/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/pupuik-tanduak/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/pupuik-tanduak/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/pupuik-tanduak/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/pupuik-tanduak/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/pupuik-tanduak/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 25,
@@ -689,6 +1548,7 @@
     "type": "Petik",
     "image": "/images/instruments/siter-main.jpg",
     "images": [
+      "/images/instruments/siter-main.jpg",
       "/images/instruments/siter-1.jpg",
       "/images/instruments/siter-2.jpg"
     ],
@@ -697,8 +1557,7 @@
     "function": "Membawa melodi ornamen cepat (cengkok) dalam ansambel musik Gamelan Jawa.",
     "howToPlay": "Petik senar siter menggunakan kedua ibu jari Anda secara cepat dan bergantian.",
     "materials": "Kayu jati berongga dan kawat logam",
-    "audioUrl": "/audio/siter.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/BvLd0V5eHqA",
     "mapCoords": {
       "lat": -7.1501,
       "lng": 110.1403
@@ -708,7 +1567,42 @@
       "Memiliki dua sisi nada berbeda (Slendro dan Pelog)",
       "Dimainkan dengan memetik kawat menggunakan kuku jempol khusus"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Tangga Nada Pentatonis Petik (Kecapi/Sasando)",
+      "notes": [
+        {
+          "label": "Da (1)",
+          "audio": "/audio/siter/da.mp3",
+          "frequency": 261.63
+        },
+        {
+          "label": "Mi (2)",
+          "audio": "/audio/siter/mi.mp3",
+          "frequency": 311.13
+        },
+        {
+          "label": "Na (3)",
+          "audio": "/audio/siter/na.mp3",
+          "frequency": 349.23
+        },
+        {
+          "label": "Ti (4)",
+          "audio": "/audio/siter/ti.mp3",
+          "frequency": 392
+        },
+        {
+          "label": "La (5)",
+          "audio": "/audio/siter/la.mp3",
+          "frequency": 466.16
+        },
+        {
+          "label": "Da' (i)",
+          "audio": "/audio/siter/da-tinggi.mp3",
+          "frequency": 523.25
+        }
+      ]
+    }
   },
   {
     "id": 26,
@@ -718,6 +1612,7 @@
     "type": "Petik",
     "image": "/images/instruments/talindo-main.jpg",
     "images": [
+      "/images/instruments/talindo-main.jpg",
       "/images/instruments/talindo-1.jpg",
       "/images/instruments/talindo-2.jpg"
     ],
@@ -726,8 +1621,7 @@
     "function": "Sebagai musik hiburan bagi para gembala kerbau suku Toraja setelah bekerja.",
     "howToPlay": "Petik senar tunggalnya dengan jari satu tangan seraya menekan tiang kayu pembawa senar untuk mengubah nada.",
     "materials": "Kayu solid, senar kawat, dan tempurung kelapa",
-    "audioUrl": "/audio/talindo.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/J7gq333Q4fU",
     "mapCoords": {
       "lat": -1.43,
       "lng": 121.4457
@@ -737,7 +1631,42 @@
       "Bentuknya menyerupai busur panah dengan resonator batok kelapa",
       "Biasa dimainkan oleh anak laki-laki suku Toraja"
     ],
-    "featured": true
+    "featured": true,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/talindo/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/talindo/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/talindo/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/talindo/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/talindo/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/talindo/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 27,
@@ -747,6 +1676,7 @@
     "type": "Pukul",
     "image": "/images/instruments/bende-main.jpg",
     "images": [
+      "/images/instruments/bende-main.jpg",
       "/images/instruments/bende-1.jpg",
       "/images/instruments/bende-2.jpg"
     ],
@@ -755,8 +1685,7 @@
     "function": "Sebagai alat pemberi isyarat, aba-aba perang, atau pengiring upacara adat Lampung.",
     "howToPlay": "Gantungkan bende, lalu pukul bagian pencunya menggunakan pemukul kayu pendek berselubung karet.",
     "materials": "Kuningan atau perunggu tebal",
-    "audioUrl": "/audio/bende.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/8yO8m2Y0Q9c",
     "mapCoords": {
       "lat": -4.5586,
       "lng": 105.4
@@ -766,7 +1695,42 @@
       "Dahulu digunakan untuk mengumpulkan warga",
       "Dibuat dari kuningan padat"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/bende/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/bende/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/bende/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/bende/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/bende/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/bende/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 28,
@@ -776,6 +1740,7 @@
     "type": "Pukul",
     "image": "/images/instruments/ceng-ceng-main.jpg",
     "images": [
+      "/images/instruments/ceng-ceng-main.jpg",
       "/images/instruments/ceng-ceng-1.jpg",
       "/images/instruments/ceng-ceng-2.jpg"
     ],
@@ -784,8 +1749,7 @@
     "function": "Mengatur dinamika dan memberikan ketukan ritmis cepat dalam Gamelan Gong Kebyar Bali.",
     "howToPlay": "Pegang sepasang kepingan ceng-ceng atas dan pukulkan/benturkan pada kepingan ceng-ceng bawah yang terpasang di tatakan kayu.",
     "materials": "Tembaga, kuningan, atau perunggu",
-    "audioUrl": "/audio/ceng-ceng.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/zH0uK-K-V9U",
     "mapCoords": {
       "lat": -8.4095,
       "lng": 115.1889
@@ -795,7 +1759,42 @@
       "Menciptakan efek suara gemerincing logam yang sangat cepat",
       "Merupakan ciri khas ritmis yang membedakan gamelan Bali dari gamelan Jawa"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/ceng-ceng/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/ceng-ceng/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/ceng-ceng/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/ceng-ceng/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/ceng-ceng/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/ceng-ceng/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 29,
@@ -805,6 +1804,7 @@
     "type": "Pukul",
     "image": "/images/instruments/garantung-main.jpg",
     "images": [
+      "/images/instruments/garantung-main.jpg",
       "/images/instruments/garantung-1.jpg",
       "/images/instruments/garantung-2.jpg"
     ],
@@ -813,8 +1813,7 @@
     "function": "Membawa melodi pembimbing dalam ansambel Gondang Hasapi Batak Toba.",
     "howToPlay": "Pukul bilah-bilah kayu dengan kedua tangan menggunakan pemukul stik kayu kecil.",
     "materials": "Kayu garu atau kayu lokal Batak",
-    "audioUrl": "/audio/garantung.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/xO9A8GvPj2g",
     "mapCoords": {
       "lat": 2.1154,
       "lng": 99.0765
@@ -824,7 +1823,42 @@
       "Terdiri dari 5 hingga 7 bilah kayu bernada",
       "Dimainkan menggunakan dua pemukul kayu bergantian"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/garantung/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/garantung/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/garantung/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/garantung/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/garantung/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/garantung/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 30,
@@ -834,6 +1868,7 @@
     "type": "Pukul",
     "image": "/images/instruments/gonrang-main.jpg",
     "images": [
+      "/images/instruments/gonrang-main.jpg",
       "/images/instruments/gonrang-1.jpg",
       "/images/instruments/gonrang-2.jpg"
     ],
@@ -842,8 +1877,7 @@
     "function": "Sebagai penentu tempo dalam upacara kematian, adat perkawinan, dan pesta panen Simalungun.",
     "howToPlay": "Pukul kedua sisi membran kulit gonrang menggunakan telapak tangan atau pemukul stik rotan.",
     "materials": "Kayu nangka, kulit sapi, dan rotan pembelah",
-    "audioUrl": "/audio/gonrang.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/a7D9F1T4mGg",
     "mapCoords": {
       "lat": 2.1154,
       "lng": 99.0765
@@ -853,7 +1887,42 @@
       "Sering dimainkan secara berkelompok dalam jumlah ganjil",
       "Suaranya dianggap sakral dan berwibawa"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/gonrang/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/gonrang/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/gonrang/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/gonrang/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/gonrang/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/gonrang/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 31,
@@ -863,6 +1932,7 @@
     "type": "Tiup",
     "image": "/images/instruments/saluang-main.jpg",
     "images": [
+      "/images/instruments/saluang-main.jpg",
       "/images/instruments/saluang-1.jpg",
       "/images/instruments/saluang-2.jpg"
     ],
@@ -871,8 +1941,7 @@
     "function": "Mengiringi lagu-lagu rakyat (Dendang) Minangkabau dalam acara hiburan malam hari.",
     "howToPlay": "Tiup lubang bagian atas saluang secara miring sambil jari menutup lubang nada.",
     "materials": "Bambu talang tipis khas Minangkabau",
-    "audioUrl": "/audio/saluang.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/N8g3U7mK9A4",
     "mapCoords": {
       "lat": -0.9492,
       "lng": 100.4172
@@ -882,7 +1951,42 @@
       "Hanya memiliki empat buah lubang penentu nada",
       "Pemainnya melatih teknik pernapasan melingkar agar suara tidak putus"
     ],
-    "featured": true
+    "featured": true,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/saluang/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/saluang/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/saluang/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/saluang/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/saluang/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/saluang/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 32,
@@ -892,6 +1996,7 @@
     "type": "Petik",
     "image": "/images/instruments/santu-main.jpg",
     "images": [
+      "/images/instruments/santu-main.jpg",
       "/images/instruments/santu-1.jpg",
       "/images/instruments/santu-2.jpg"
     ],
@@ -900,8 +2005,7 @@
     "function": "Alat musik hiburan pribadi para pemuda Kaili saat senggang atau menjaga sawah.",
     "howToPlay": "Petik senar sayatan bambunya menggunakan jari tangan seraya memukul badan bambu secara berirama.",
     "materials": "Bambu betung besar",
-    "audioUrl": "/audio/santu.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/E-0_z-T4yJc",
     "mapCoords": {
       "lat": -1.43,
       "lng": 121.4457
@@ -911,7 +2015,42 @@
       "Dawai-dawainya dibentuk dengan menyayat kulit bambu luar",
       "Memiliki lubang resonansi di bagian tengah tabung bambu"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/santu/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/santu/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/santu/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/santu/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/santu/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/santu/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 33,
@@ -921,6 +2060,7 @@
     "type": "Tiup",
     "image": "/images/instruments/serunai-main.jpg",
     "images": [
+      "/images/instruments/serunai-main.jpg",
       "/images/instruments/serunai-1.jpg",
       "/images/instruments/serunai-2.jpg"
     ],
@@ -929,8 +2069,7 @@
     "function": "Mengiringi pertunjukan Pencak Silat, upacara perkawinan Minangkabau, dan pacu jawi (balap sapi).",
     "howToPlay": "Tiup mouthpiece daun lontar pada serunai seraya membuka-tutup lubang nada.",
     "materials": "Kayu jati, bambu, dan daun kelapa/lontar",
-    "audioUrl": "/audio/serunai.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/U9O7x7F3xG0",
     "mapCoords": {
       "lat": -0.9492,
       "lng": 100.4172
@@ -940,7 +2079,37 @@
       "Menghasilkan suara melengking nyaring mirip oboe",
       "Menjadi pengambil melodi utama dalam acara keramaian adat"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Tiup Tradisional",
+      "notes": [
+        {
+          "label": "Da (1)",
+          "audio": "/audio/serunai/da.mp3",
+          "frequency": 329.63
+        },
+        {
+          "label": "Mi (2)",
+          "audio": "/audio/serunai/mi.mp3",
+          "frequency": 392
+        },
+        {
+          "label": "Na (3)",
+          "audio": "/audio/serunai/na.mp3",
+          "frequency": 440
+        },
+        {
+          "label": "Ti (4)",
+          "audio": "/audio/serunai/ti.mp3",
+          "frequency": 493.88
+        },
+        {
+          "label": "La (5)",
+          "audio": "/audio/serunai/la.mp3",
+          "frequency": 587.33
+        }
+      ]
+    }
   },
   {
     "id": 34,
@@ -950,6 +2119,7 @@
     "type": "Petik",
     "image": "/images/instruments/panting-main.jpg",
     "images": [
+      "/images/instruments/panting-main.jpg",
       "/images/instruments/panting-1.jpg",
       "/images/instruments/panting-2.jpg"
     ],
@@ -958,8 +2128,7 @@
     "function": "Mengiringi kesenian lagu Banjar dan upacara adat penyambutan tamu kehormatan.",
     "howToPlay": "Petik senar-senarnya menggunakan jemari tangan kanan sambil jari tangan kiri memencet nada pada leher kayu.",
     "materials": "Kayu nangka dan senar kawat/nilon",
-    "audioUrl": "/audio/panting.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/E3N3J8C5h8A",
     "mapCoords": {
       "lat": -3.0926,
       "lng": 115.2838
@@ -969,7 +2138,42 @@
       "Merupakan identitas musik utama suku Banjar",
       "Sekarang dimainkan berpadu dalam format orkes Panting"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/panting/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/panting/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/panting/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/panting/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/panting/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/panting/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 35,
@@ -979,6 +2183,7 @@
     "type": "Pukul",
     "image": "/images/instruments/celempung-main.jpg",
     "images": [
+      "/images/instruments/celempung-main.jpg",
       "/images/instruments/celempung-1.jpg",
       "/images/instruments/celempung-2.jpg"
     ],
@@ -987,8 +2192,7 @@
     "function": "Mengatur ritmik dan harmonisasi lagu dalam ansambel musik Celempungan Sunda.",
     "howToPlay": "Pukul senar sayatan bambu menggunakan pemukul kayu kecil berbalut karet, seraya tangan kiri mengatur lubang udara di ujung bambu.",
     "materials": "Bambu gombong besar",
-    "audioUrl": "/audio/celempung.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/z4y9T8M3o5c",
     "mapCoords": {
       "lat": -6.9147,
       "lng": 107.6098
@@ -998,7 +2202,42 @@
       "Suara resonansi diatur dengan membuka-tutup lubang udara di ujung bambu",
       "Bahan pembuatannya murni dari alam tanpa logam"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Tangga Nada Pentatonis Petik (Kecapi/Sasando)",
+      "notes": [
+        {
+          "label": "Da (1)",
+          "audio": "/audio/celempung/da.mp3",
+          "frequency": 261.63
+        },
+        {
+          "label": "Mi (2)",
+          "audio": "/audio/celempung/mi.mp3",
+          "frequency": 311.13
+        },
+        {
+          "label": "Na (3)",
+          "audio": "/audio/celempung/na.mp3",
+          "frequency": 349.23
+        },
+        {
+          "label": "Ti (4)",
+          "audio": "/audio/celempung/ti.mp3",
+          "frequency": 392
+        },
+        {
+          "label": "La (5)",
+          "audio": "/audio/celempung/la.mp3",
+          "frequency": 466.16
+        },
+        {
+          "label": "Da' (i)",
+          "audio": "/audio/celempung/da-tinggi.mp3",
+          "frequency": 523.25
+        }
+      ]
+    }
   },
   {
     "id": 36,
@@ -1008,6 +2247,7 @@
     "type": "Pukul",
     "image": "/images/instruments/gambang-main.jpg",
     "images": [
+      "/images/instruments/gambang-main.jpg",
       "/images/instruments/gambang-1.jpg",
       "/images/instruments/gambang-2.jpg"
     ],
@@ -1016,8 +2256,7 @@
     "function": "Membawa alur lagu melodi ornamen cepat dalam orkes Gamelan Jawa dan orkes Gambang Kromong Betawi.",
     "howToPlay": "Pukul bilah-bilah kayu dengan stik pemukul bundar menggunakan kedua tangan Anda secara beriringan.",
     "materials": "Bilah kayu jati atau kayu lara, dan dudukan kayu jati",
-    "audioUrl": "/audio/gambang.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/k-x-z9K3d8I",
     "mapCoords": {
       "lat": -7.1501,
       "lng": 110.1403
@@ -1027,7 +2266,52 @@
       "Dimainkan menggunakan dua buah stik pemukul berujung bundar empuk",
       "Menghasilkan melodi ornamen bertempo cepat yang ceria"
     ],
-    "featured": true
+    "featured": true,
+    "scaleData": {
+      "name": "Tangga Nada Diatonis Kayu",
+      "notes": [
+        {
+          "label": "Do (1)",
+          "audio": "/audio/gambang/do.mp3",
+          "frequency": 261.63
+        },
+        {
+          "label": "Re (2)",
+          "audio": "/audio/gambang/re.mp3",
+          "frequency": 293.66
+        },
+        {
+          "label": "Mi (3)",
+          "audio": "/audio/gambang/mi.mp3",
+          "frequency": 329.63
+        },
+        {
+          "label": "Fa (4)",
+          "audio": "/audio/gambang/fa.mp3",
+          "frequency": 349.23
+        },
+        {
+          "label": "Sol (5)",
+          "audio": "/audio/gambang/sol.mp3",
+          "frequency": 392
+        },
+        {
+          "label": "La (6)",
+          "audio": "/audio/gambang/la.mp3",
+          "frequency": 440
+        },
+        {
+          "label": "Si (7)",
+          "audio": "/audio/gambang/si.mp3",
+          "frequency": 493.88
+        },
+        {
+          "label": "Do' (i)",
+          "audio": "/audio/gambang/do-tinggi.mp3",
+          "frequency": 523.25
+        }
+      ]
+    }
   },
   {
     "id": 37,
@@ -1037,6 +2321,7 @@
     "type": "Pukul",
     "image": "/images/instruments/gender-main.jpg",
     "images": [
+      "/images/instruments/gender-main.jpg",
       "/images/instruments/gender-1.jpg",
       "/images/instruments/gender-2.jpg"
     ],
@@ -1045,8 +2330,7 @@
     "function": "Membawa melodi pembuka yang anggun dan lembut dalam ansambel musik Gamelan Jawa Tengah.",
     "howToPlay": "Pukul bilah logam dengan stik pemukul bundar, lalu langsung redam bilah tersebut menggunakan telapak tangan sesaat setelah nada berikutnya dipukul.",
     "materials": "Bilah kuningan/perunggu dan tabung resonator bambu",
-    "audioUrl": "/audio/gender.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/D3T1U7w8M8A",
     "mapCoords": {
       "lat": -7.1501,
       "lng": 110.1403
@@ -1056,7 +2340,47 @@
       "Memerlukan teknik meredam bunyi bilah logam dengan telapak tangan",
       "Menghasilkan suara mendengung lembut yang magis dan anggun"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Pelog Pathet Barang (Gamelan)",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/gender/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/gender/ro.mp3",
+          "frequency": 290
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/gender/lu.mp3",
+          "frequency": 325
+        },
+        {
+          "label": "Pi (4)",
+          "audio": "/audio/gender/pi.mp3",
+          "frequency": 370
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/gender/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/gender/nem.mp3",
+          "frequency": 435
+        },
+        {
+          "label": "Barang (7)",
+          "audio": "/audio/gender/barang.mp3",
+          "frequency": 490
+        }
+      ]
+    }
   },
   {
     "id": 38,
@@ -1066,6 +2390,7 @@
     "type": "Pukul",
     "image": "/images/instruments/ketipung-main.jpg",
     "images": [
+      "/images/instruments/ketipung-main.jpg",
       "/images/instruments/ketipung-1.jpg",
       "/images/instruments/ketipung-2.jpg"
     ],
@@ -1074,8 +2399,7 @@
     "function": "Pengatur ketukan ritmis dinamis dalam musik dangdut, keroncong, dan gamelan Jawa Timur.",
     "howToPlay": "Pukul membran kulit menggunakan telapak tangan dan jari dengan ketukan cepat yang menghasilkan bunyi pling dan dut.",
     "materials": "Kayu jati bubutan dan kulit kambing/lembaran karet",
-    "audioUrl": "/audio/ketipung.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/B3K3d9d3C8A",
     "mapCoords": {
       "lat": -7.536,
       "lng": 112.2384
@@ -1085,7 +2409,32 @@
       "Memiliki dua sisi membran (sisi pling bernada tinggi dan dut bernada rendah)",
       "Sangat digemari karena menjadi jiwa ritmis dalam musik dangdut Indonesia"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Ritme & Ketukan Perkusi Membran",
+      "notes": [
+        {
+          "label": "Dut",
+          "audio": "/audio/ketipung/dut.mp3",
+          "frequency": 120
+        },
+        {
+          "label": "Tak",
+          "audio": "/audio/ketipung/tak.mp3",
+          "frequency": 350
+        },
+        {
+          "label": "Tong",
+          "audio": "/audio/ketipung/tong.mp3",
+          "frequency": 220
+        },
+        {
+          "label": "Plak",
+          "audio": "/audio/ketipung/plak.mp3",
+          "frequency": 400
+        }
+      ]
+    }
   },
   {
     "id": 39,
@@ -1095,6 +2444,7 @@
     "type": "Pukul",
     "image": "/images/instruments/gendang-beleq-main.jpg",
     "images": [
+      "/images/instruments/gendang-beleq-main.jpg",
       "/images/instruments/gendang-beleq-1.jpg",
       "/images/instruments/gendang-beleq-2.jpg"
     ],
@@ -1103,8 +2453,7 @@
     "function": "Kesenian orkes perkusi penyambut tamu agung dan festival budaya suku Sasak di Lombok.",
     "howToPlay": "Gendong gendang beleq di pundak, lalu pukul kedua sisinya menggunakan pemukul kayu khusus seraya menari.",
     "materials": "Kayu meranti bubutan besar, kulit sapi tebal, dan tali pasak",
-    "audioUrl": "/audio/gendang-beleq.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/L1Z4Y9A9N8A",
     "mapCoords": {
       "lat": -8.6529,
       "lng": 117.3616
@@ -1114,7 +2463,32 @@
       "Dimainkan sambil digendong oleh penabuhnya yang menari dinamis",
       "Dahulu dimainkan untuk menyemangati para prajurit Lombok pergi berperang"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Ritme & Ketukan Perkusi Membran",
+      "notes": [
+        {
+          "label": "Dut",
+          "audio": "/audio/gendang-beleq/dut.mp3",
+          "frequency": 120
+        },
+        {
+          "label": "Tak",
+          "audio": "/audio/gendang-beleq/tak.mp3",
+          "frequency": 350
+        },
+        {
+          "label": "Tong",
+          "audio": "/audio/gendang-beleq/tong.mp3",
+          "frequency": 220
+        },
+        {
+          "label": "Plak",
+          "audio": "/audio/gendang-beleq/plak.mp3",
+          "frequency": 400
+        }
+      ]
+    }
   },
   {
     "id": 40,
@@ -1124,6 +2498,7 @@
     "type": "Tiup",
     "image": "/images/instruments/terompet-reog-main.jpg",
     "images": [
+      "/images/instruments/terompet-reog-main.jpg",
       "/images/instruments/terompet-reog-1.jpg",
       "/images/instruments/terompet-reog-2.jpg"
     ],
@@ -1132,8 +2507,7 @@
     "function": "Melodi pemimpin ornamen mistis dalam kesenian tari Reog Ponorogo.",
     "howToPlay": "Tiup pipa terompet reog dengan pernapasan kuat seraya menutup lubang nada untuk memicu melodi melengking.",
     "materials": "Kayu mahoni, pipa kuningan, dan tempurung kelapa",
-    "audioUrl": "/audio/terompet-reog.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/L4U7Z8d3M8c",
     "mapCoords": {
       "lat": -7.536,
       "lng": 112.2384
@@ -1143,7 +2517,42 @@
       "Menghasilkan suara melengking mistis yang sangat kuat",
       "Hanya ditiup khusus dalam pementasan kesenian Reog Ponorogo"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/terompet-reog/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/terompet-reog/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/terompet-reog/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/terompet-reog/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/terompet-reog/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/terompet-reog/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 41,
@@ -1153,6 +2562,7 @@
     "type": "Pukul",
     "image": "/images/instruments/atowo-main.jpg",
     "images": [
+      "/images/instruments/atowo-main.jpg",
       "/images/instruments/atowo-1.jpg",
       "/images/instruments/atowo-2.jpg"
     ],
@@ -1161,8 +2571,7 @@
     "function": "Sebagai musik hiburan rakyat Papua dan pengiring tarian adat sakral suku pedalaman.",
     "howToPlay": "Pegang atowo dengan satu tangan, lalu pukul bagian membrannya menggunakan tangan yang lain.",
     "materials": "Kayu lokal Papua diukir dan kulit rusa",
-    "audioUrl": "/audio/atowo.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/G2K3K9e3T8c",
     "mapCoords": {
       "lat": -4.2699,
       "lng": 138.0804
@@ -1172,7 +2581,32 @@
       "Ukurannya jauh lebih ringan daripada tifa Papua biasa",
       "Keberadaannya saat ini sangat langka dan sulit ditemui"
     ],
-    "featured": true
+    "featured": true,
+    "scaleData": {
+      "name": "Ritme & Ketukan Perkusi Membran",
+      "notes": [
+        {
+          "label": "Dut",
+          "audio": "/audio/atowo/dut.mp3",
+          "frequency": 120
+        },
+        {
+          "label": "Tak",
+          "audio": "/audio/atowo/tak.mp3",
+          "frequency": 350
+        },
+        {
+          "label": "Tong",
+          "audio": "/audio/atowo/tong.mp3",
+          "frequency": 220
+        },
+        {
+          "label": "Plak",
+          "audio": "/audio/atowo/plak.mp3",
+          "frequency": 400
+        }
+      ]
+    }
   },
   {
     "id": 42,
@@ -1182,6 +2616,7 @@
     "type": "Petik",
     "image": "/images/instruments/cangor-main.jpg",
     "images": [
+      "/images/instruments/cangor-main.jpg",
       "/images/instruments/cangor-1.jpg",
       "/images/instruments/cangor-2.jpg"
     ],
@@ -1190,8 +2625,7 @@
     "function": "Alat musik pengisi waktu luang petani Jambi saat beristirahat di gubuk sawah.",
     "howToPlay": "Pangku cangor secara miring, petik senar sayatan bambu menggunakan jari tangan.",
     "materials": "Bambu buluh panjang",
-    "audioUrl": "/audio/cangor.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/A3N2d8V4eHk",
     "mapCoords": {
       "lat": -1.6101,
       "lng": 103.6131
@@ -1201,7 +2635,42 @@
       "Dawai-dawainya disayat langsung dari kulit luar bambu itu sendiri",
       "Tumbuh subur di pedalaman Jambi dengan pengaruh melayu"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/cangor/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/cangor/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/cangor/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/cangor/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/cangor/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/cangor/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   },
   {
     "id": 43,
@@ -1211,6 +2680,7 @@
     "type": "Guncang",
     "image": "/images/instruments/kecrek-main.jpg",
     "images": [
+      "/images/instruments/kecrek-main.jpg",
       "/images/instruments/kecrek-1.jpg",
       "/images/instruments/kecrek-2.jpg"
     ],
@@ -1219,8 +2689,7 @@
     "function": "Penambah aksen musik ritmis gemerincing dalam Lenong, Topeng Betawi, dan Gambang Kromong.",
     "howToPlay": "Guncangkan kecrek menggunakan tangan Anda secara ritmis mengikuti ketukan musik pengiring.",
     "materials": "Lempengan logam besi/kuningan dan gagang kayu jati",
-    "audioUrl": "/audio/kecrek.mp3",
-    "videoUrl": "https://www.youtube.com/embed/DUMMY_ID",
+    "videoUrl": "https://www.youtube.com/embed/xK2d3C9eN8A",
     "mapCoords": {
       "lat": -6.2088,
       "lng": 106.8456
@@ -1230,6 +2699,41 @@
       "Menciptakan efek suara gemerincing logam yang nyaring dan ritmis",
       "Sangat populer dalam pertunjukan teater rakyat Lenong Betawi"
     ],
-    "featured": false
+    "featured": false,
+    "scaleData": {
+      "name": "Laras Slendro Tradisional",
+      "notes": [
+        {
+          "label": "Ji (1)",
+          "audio": "/audio/kecrek/ji.mp3",
+          "frequency": 270
+        },
+        {
+          "label": "Ro (2)",
+          "audio": "/audio/kecrek/ro.mp3",
+          "frequency": 300
+        },
+        {
+          "label": "Lu (3)",
+          "audio": "/audio/kecrek/lu.mp3",
+          "frequency": 340
+        },
+        {
+          "label": "Mo (5)",
+          "audio": "/audio/kecrek/mo.mp3",
+          "frequency": 400
+        },
+        {
+          "label": "Nem (6)",
+          "audio": "/audio/kecrek/nem.mp3",
+          "frequency": 450
+        },
+        {
+          "label": "Ji (i)",
+          "audio": "/audio/kecrek/ji-tinggi.mp3",
+          "frequency": 540
+        }
+      ]
+    }
   }
 ]

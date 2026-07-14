@@ -1,8 +1,7 @@
 import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
-import { FiBookmark, FiMapPin, FiMusic } from 'react-icons/fi'
+import { FiMapPin, FiMusic } from 'react-icons/fi'
 import { useApp } from '../../context/AppContext'
-import toast from 'react-hot-toast'
 
 const typeColors = {
   Pukul: 'from-orange-400 to-red-500',
@@ -13,16 +12,7 @@ const typeColors = {
 }
 
 export default function InstrumentCard({ instrument, index = 0 }) {
-  const { darkMode, toggleBookmark, isBookmarked } = useApp()
-  const bookmarked = isBookmarked(instrument.id)
-
-  const handleBookmark = (e) => {
-    e.preventDefault()
-    toggleBookmark(instrument.id)
-    toast(bookmarked ? `Dihapus dari bookmark` : `${instrument.name} disimpan!`, {
-      icon: bookmarked ? '🗑️' : '🔖',
-    })
-  }
+  const { darkMode } = useApp()
 
   return (
     <motion.div
@@ -32,11 +22,10 @@ export default function InstrumentCard({ instrument, index = 0 }) {
       className="card-glow group"
     >
       <Link to={`/alat-musik/${instrument.slug}`}>
-        <div className={`rounded-2xl overflow-hidden border transition-colors duration-300 ${
-          darkMode
+        <div className={`rounded-2xl overflow-hidden border transition-colors duration-300 ${darkMode
             ? 'bg-[#2A1515] border-[#C9A84C]/10 hover:border-[#C9A84C]/30'
             : 'bg-white border-[#C9A84C]/20 hover:border-[#C9A84C]/50'
-        }`}>
+          }`}>
           {/* Image */}
           <div className="relative h-52 overflow-hidden">
             <img
@@ -54,17 +43,6 @@ export default function InstrumentCard({ instrument, index = 0 }) {
             <div className={`absolute top-3 left-3 px-2.5 py-1 rounded-full text-xs font-semibold text-white bg-gradient-to-r ${typeColors[instrument.type] || 'from-gray-400 to-gray-600'}`}>
               {instrument.type}
             </div>
-
-            {/* Bookmark btn */}
-            <motion.button
-              whileTap={{ scale: 0.85 }}
-              onClick={handleBookmark}
-              className={`absolute top-3 right-3 w-8 h-8 rounded-full flex items-center justify-center backdrop-blur-sm transition-colors ${
-                bookmarked ? 'bg-[#C9A84C] text-white' : 'bg-black/30 text-white hover:bg-[#C9A84C]/80'
-              }`}
-            >
-              <FiBookmark size={14} fill={bookmarked ? 'currentColor' : 'none'} />
-            </motion.button>
 
             {/* Name overlay */}
             <div className="absolute bottom-3 left-3 right-3">

@@ -12,27 +12,21 @@ const regions = ['all', ...new Set(instruments.map(i => i.region))]
 const types = ['all', ...new Set(instruments.map(i => i.type))]
 
 export default function GalleryPage() {
-  const { darkMode, bookmarks, filterRegion, setFilterRegion, filterType, setFilterType } = useApp()
+  const { darkMode, filterRegion, setFilterRegion, filterType, setFilterType } = useApp()
   const [searchParams, setSearchParams] = useSearchParams()
   const [loading, setLoading] = useState(true)
   const [view, setView] = useState('grid')
-  const [showBookmarks, setShowBookmarks] = useState(false)
   const [searchInput, setSearchInput] = useState('')
 
-  // Inisialisasi dari URL params saat pertama kali load
+  // Reset filter & search saat masuk ke halaman galeri
   useEffect(() => {
     const q = searchParams.get('q') || ''
     setSearchInput(q)
-    if (searchParams.get('filter') === 'bookmarks') setShowBookmarks(true)
+    setFilterRegion('all')
+    setFilterType('all')
     const timer = setTimeout(() => setLoading(false), 600)
     return () => clearTimeout(timer)
   }, []) // eslint-disable-line react-hooks/exhaustive-deps
-
-  // Reactive: update input ketika URL berubah (misal dari navbar search)
-  useEffect(() => {
-    const q = searchParams.get('q') || ''
-    setSearchInput(q)
-  }, [searchParams])
 
   // Update URL saat user mengetik di kotak pencarian galeri
   const handleSearchChange = (val) => {
@@ -45,20 +39,18 @@ export default function GalleryPage() {
 
   const filtered = useMemo(() => {
     let list = instruments
-    if (showBookmarks) list = list.filter(i => bookmarks.includes(i.id))
     if (searchInput.trim()) {
       const q = searchInput.toLowerCase()
       list = list.filter(i =>
         i.name.toLowerCase().includes(q) ||
         i.region.toLowerCase().includes(q) ||
-        i.type.toLowerCase().includes(q) ||
-        i.description.toLowerCase().includes(q)
+        i.type.toLowerCase().includes(q)
       )
     }
     if (filterRegion !== 'all') list = list.filter(i => i.region === filterRegion)
     if (filterType !== 'all') list = list.filter(i => i.type === filterType)
     return list
-  }, [searchInput, filterRegion, filterType, showBookmarks, bookmarks])
+  }, [searchInput, filterRegion, filterType])
 
   return (
     <PageWrapper>
@@ -122,19 +114,6 @@ export default function GalleryPage() {
               {types.map(t => <option key={t} value={t}>{t === 'all' ? 'Semua Jenis' : t}</option>)}
             </select>
 
-            {/* Bookmark toggle */}
-            <button
-              onClick={() => setShowBookmarks(p => !p)}
-              className={`px-4 py-2.5 rounded-xl border text-sm font-medium transition-colors ${
-                showBookmarks
-                  ? 'bg-[#C9A84C] border-[#C9A84C] text-white'
-                  : darkMode
-                  ? 'bg-[#1A0A0A] border-[#C9A84C]/20 text-[#F5ECD7]'
-                  : 'bg-[#F5ECD7] border-[#C9A84C]/30 text-[#3D2B1F]'
-              }`}
-            >
-              🔖 Favorit ({bookmarks.length})
-            </button>
 
             {/* View toggle */}
             <div className={`flex rounded-xl border overflow-hidden ${darkMode ? 'border-[#C9A84C]/20' : 'border-[#C9A84C]/30'}`}>
