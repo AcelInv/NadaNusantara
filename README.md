@@ -71,7 +71,6 @@ src/
 │   ├── QuizPage.jsx             # Kuis interaktif
 │   ├── TimelinePage.jsx         # Timeline sejarah
 │   ├── FaqPage.jsx              # FAQ accordion
-│   ├── ProfilePage.jsx          # Profil developer
 │   └── NotFoundPage.jsx         # Halaman 404
 ├── App.jsx                      # Router utama
 ├── main.jsx                     # Entry point
