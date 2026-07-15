@@ -12,7 +12,6 @@ import TimelinePage from './pages/TimelinePage'
 import FaqPage from './pages/FaqPage'
 import QuizSelectPage from './pages/QuizSelectPage'
 import QuizPage from './pages/QuizPage'
-import ProfilePage from './pages/ProfilePage'
 import NotFoundPage from './pages/NotFoundPage'
 
 
@@ -33,7 +32,6 @@ export default function App() {
           <Route path="/faq" element={<FaqPage />} />
           <Route path="/kuis" element={<QuizSelectPage />} />
           <Route path="/kuis/:slug" element={<QuizPage />} />
-          <Route path="/profil" element={<ProfilePage />} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
       </AnimatePresence>
